@@ -1,0 +1,1 @@
+fill {repeat 9 {fill {c Gg Tn } c Ds f9 } f1 } c Aus Lxh fill {repeat 5 {c Dmp Itt } l5 c Mfzs repeat 7 {c Dt Cr c Iy fill {repeat 3 {r9 } } fill {f5 repeat 8 {b0 } repeat 2 {f6 } } b7 } }

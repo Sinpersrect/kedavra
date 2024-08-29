@@ -1,0 +1,1 @@
+Exists(?F) !Exists(?u) ?X = #5 ^ _d(?1) -> _W(#9) -> Exists(?Az) Exists(?I) #6 = #9 <-> #6 = ?n

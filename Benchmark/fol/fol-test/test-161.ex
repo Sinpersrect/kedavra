@@ -1,0 +1,1 @@
+!!.a(?K) = .q(?Y) ^ Forall(?v) Exists(?35) !?l = #n ^ _I(#9)

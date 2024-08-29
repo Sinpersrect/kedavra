@@ -1,0 +1,1 @@
+Forall(?e) Exists(?26pek) Exists(?4) _4(?49s39, ?JF)

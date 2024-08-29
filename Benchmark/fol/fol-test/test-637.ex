@@ -1,0 +1,1 @@
+Exists(?X) Forall(?nV) _Fn(.m(#04, #6l), #k, .L(?q, #b), ?j, #u, .RyU(.o1(.T(?t)), .P(.w(#w, ?G)))) ^ !!_G(#G) -> Forall(?4) _5(#Z) <-> Exists(?T) !#F = .F(#Q) <-> Forall(?ADj) !!_6(?c, ?o, #m) -> _E(.S(?p, #n), ?9, ?T) ^ _2(?1) -> Forall(?9ShN) Exists(?x) _C(.5V(.dv(?6, ?5, #1, .29(#5, ?Q))), .g(.f(#b, ?d, ?d, #0), ?5, #8, #C, #5), .p(.z(?vr, #3, #W)))

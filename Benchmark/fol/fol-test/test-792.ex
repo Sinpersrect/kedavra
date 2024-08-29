@@ -1,0 +1,1 @@
+Forall(?WNvn3) !Forall(?R) !#4 = ?K <-> Forall(?7) Exists(?1a3x) Forall(?J) !Forall(?3) #D = #h \/ _gjk(.Yk(?8)) ^ !Forall(?e) _li(?PSV, #g) ^ Exists(?237) ?l24 = .Me5(.ib(?p, #8))

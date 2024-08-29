@@ -1,0 +1,1 @@
+!_Zxq9(#O) \/ Forall(?E) _G(#Ywj) \/ !!Exists(?1zzx) !_FYm(?2) -> _X4F(.j(.3(#l)), .k(?G)) ^ Forall(?hX) _P1(#9, ?bt) <-> _W(.V2S(?V8y, #z, #t, .O(.j6(.E(.o(#k), #E, #0)))), ?v)

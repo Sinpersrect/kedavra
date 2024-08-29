@@ -1,0 +1,1 @@
+if ( z +( l = u )<979)while ( v = w - l - u < b )do if ( c - d )while ( f = d < x )while ( c = a ) c ;else if ( q = l = b < f ); else if ( z < g ); else if ( h < y ); while ( j = e + d < q + i );

@@ -1,0 +1,1 @@
+while ( s = f =4)if ( z =0)if ( e -( x )< c + q +4)if ( e = t < u )do if ( g ){ ; }else while ( g < n ) n < t ;while ( t );else do  p = h ;while ( b = f = k );else if ( v ){ ; { ; }}

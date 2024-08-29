@@ -1,0 +1,1 @@
+Forall(?6) !_v(.f(#w), ?gW, .g7(.J(#9)), .7J(.Wb(?11, ?q, ?q))) -> Forall(?K) !Forall(?R8) !_y(.2(#p, #o, #o), .v(#G)) -> ?g = ?q \/ _1I1pi(#G)

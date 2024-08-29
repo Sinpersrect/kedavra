@@ -1,0 +1,1 @@
+Exists(?cu) !Forall(?m) !_P(#X) -> Exists(?Y) !#Q = #7 \/ _5(#5) ^ _m(?z, ?6) ^ ?1 = #L

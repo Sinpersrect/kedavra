@@ -1,0 +1,1 @@
+(pi) - z5_l - phi - phi - d + q * sin(cosh(phi)) - 0 * phi + h7w * q_g

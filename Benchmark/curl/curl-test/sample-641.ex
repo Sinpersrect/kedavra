@@ -1,0 +1,1 @@
+ftp://D3TI.vn.6tj.i:6//@;type=I

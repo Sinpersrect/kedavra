@@ -1,0 +1,1 @@
+if ~n == n & L == ((L+n)+L) then while ~true do L = L else skip

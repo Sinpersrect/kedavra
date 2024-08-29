@@ -1,0 +1,11 @@
+method,grammar,seed,f1,time
+kedavra,arith,ase21-r0,1.0±0.0,4.57±0.18
+kedavra,curl,ase21-r0,0.18±0.19,312.37±81.78
+kedavra,fol,ase21-r0,0.69±0.14,667.23±202.2
+kedavra,json,ase21-h,0.99±0.01,43.39±4.88
+kedavra,lisp,ase21-h,1.0±0.0,16.49±0.43
+kedavra,mathexpr,ase21-r0,0.93±0.07,642.75±508.49
+kedavra,tinyc,ase21-r0,1.0±0.0,169.72±11.72
+kedavra,turtle,ase21-h,1.0±0.0,35.23±1.79
+kedavra,while,ase21-h,1.0±0.0,480.62±103.89
+kedavra,xml,ase21-h,1.0±0.0,624.08±78.95

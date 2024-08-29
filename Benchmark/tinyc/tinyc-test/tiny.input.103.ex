@@ -1,0 +1,1 @@
+if (( i < h )+( v = r < w ))if ( w = o = v ); else do if ( t - u < d )if ( e < q )if ( v )if ( u < l ){ ; }else { ; }else if ( a = n < i )do  d ;while ( k );else do do ; while ( b < g );while ( u < n );while ( p = e = m = p );

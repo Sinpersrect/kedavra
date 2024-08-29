@@ -1,0 +1,1 @@
+if ( g = x = r + t +( a < w )< s + d -9)if (( t < w )-17<94); else ( v < x )+( q < n )< n ;else while ( b - y +( l < z )< w +0+24); 

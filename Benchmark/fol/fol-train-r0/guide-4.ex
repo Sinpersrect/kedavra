@@ -1,0 +1,1 @@
+Exists(?fd) #t = #R

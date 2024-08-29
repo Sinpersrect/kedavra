@@ -1,0 +1,1 @@
+if (7+9<( k )+( a ))do  r = r = f = n = d = j ;while ( d = c = f );

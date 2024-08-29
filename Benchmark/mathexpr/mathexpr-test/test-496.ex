@@ -1,0 +1,1 @@
+(-1.57 * sinh((fabs(phi)), pi - tanh(e) + phi) - (pi))

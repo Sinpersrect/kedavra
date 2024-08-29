@@ -1,0 +1,1 @@
+{ while ( w = u + a )if ( h - q < g ){ if ( a < j ){ ; }}}

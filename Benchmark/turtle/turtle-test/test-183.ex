@@ -1,0 +1,1 @@
+repeat 3 {l6 } c Xsa

@@ -1,0 +1,1 @@
+Forall(?kWD) _4z(.q(#5T, #0c))

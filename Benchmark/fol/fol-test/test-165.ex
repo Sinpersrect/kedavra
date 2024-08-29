@@ -1,0 +1,1 @@
+!Forall(?9) Exists(?F) Exists(?l) ?w = ?4 <-> _7j(#9G, ?p, #x, .X(?M), ?T)

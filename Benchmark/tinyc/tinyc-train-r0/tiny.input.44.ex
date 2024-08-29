@@ -1,0 +1,1 @@
+{ do if ( v = b = k = w < b )if ( o = m = e )while ( n )do if ( n < s ); while ( f < m );else do if ( r ) y ;while ( r < a );while (6<4);if ( y < d + n ) r = m = r ;else ; }

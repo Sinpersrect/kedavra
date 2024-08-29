@@ -1,0 +1,1 @@
+c Azme Akdw fill {c Xh l6 fill {c Mf } fill {repeat 7 {fill {l1 } c Cm } c Lfo Buc repeat 3 {c Ro Ktp } } } l4 c Srhf

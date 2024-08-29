@@ -1,0 +1,1 @@
+if ( h <( n )- d )do do  e - c -4;while ( m = o = h = q = n < w );while ( o = j - o +7< b + i - u );

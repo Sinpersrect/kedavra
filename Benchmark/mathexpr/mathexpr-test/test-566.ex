@@ -1,0 +1,1 @@
+((5 - txqld / 36 - sin(pi) / hypot(e) - 0 + e) - sin(f44d, e) * log((0.9 + -3), -0.5) - -54.5) - phi - j - (phi + (phi)) - tan(phi) * vbmrdlql

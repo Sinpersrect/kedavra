@@ -1,0 +1,1 @@
+char a ( int a ) { while ( ( a = a ) + a ( a = a ) ) if ( a = 0 ) ; }

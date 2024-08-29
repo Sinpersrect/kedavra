@@ -1,0 +1,1 @@
+void a ( bool a ) { do { } while ( a < a ) ; }

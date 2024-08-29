@@ -1,0 +1,1 @@
+do  a = g = e = w - y ;while ( a =( k ));

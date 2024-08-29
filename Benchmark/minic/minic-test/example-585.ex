@@ -1,0 +1,1 @@
+bool a ( float a , bool a , int a , char a , char a ) { if ( a < a ) { } }

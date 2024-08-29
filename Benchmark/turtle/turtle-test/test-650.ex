@@ -1,0 +1,1 @@
+repeat 6 {c Bo } fill {r0 }

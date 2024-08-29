@@ -1,0 +1,1 @@
+void a ( bool a , float a , float a , char a ) { a ( a - a ) < 0 ; }

@@ -1,0 +1,1 @@
+do do ; while ( m + j +( q )+( o < p )< y - b +( n )+( c < j ));while ( t = p = e = k = a = f = m );

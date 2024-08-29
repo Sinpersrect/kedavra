@@ -1,0 +1,1 @@
+Exists(?5g2e) !.M(.3el(?q7, ?2, ?NN), ?9) = .qE(.i(.4vM(.KZ(.j(#T)))), .37(?n, ?1, #u), #E) \/ !Forall(?Ee) Exists(?Iw) _K(#2, .h(?C), .f(.i(?d))) \/ _KN(#WnA, .L(?P)) \/ !_6O8(#8, .W(#R)) ^ Exists(?h55) !!!Exists(?d) _U(#4) -> Forall(?Z) ?6 = .C(#1, ?N) ^ !_1(?G, ?a)

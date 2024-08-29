@@ -1,0 +1,1 @@
+!Forall(?7450) _2(?W) -> !!Exists(?U2e) Exists(?r1) Exists(?6) _4X(#E, .pf3(.1(.U(#7), ?V, ?R))) <-> !Exists(?X) Forall(?l4) Exists(?1N) Exists(?Y2) ?q = #b <-> ?2 = #8 -> _p(#k) ^ !_sI28(?o4) -> Forall(?3) Exists(?C) _0S7(?P)

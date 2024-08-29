@@ -1,0 +1,1 @@
+!Exists(?uN) Forall(?5t) !!?2 = ?o \/ _L(?1) ^ Exists(?8) #a = .3(#0, ?J, ?1)

@@ -1,0 +1,1 @@
+(floor(-6.0, phi, e)) / ((21.5) - pi) - ldexp(pi)

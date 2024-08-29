@@ -1,0 +1,1 @@
+3.1 + (e) + 9.1 - pow(1.8) * fmod(pi / pi) / 0.4 - 1 + 0 + phi + phi / (-6) * pow(((b * 0) / c + phi) / phi + e * e) * (modf(91, -4.3) / 339) + 0 + -0.0 * tanh(pi) / 0 * pow(fmod(phi)) - log(phi) * ((pi)) - e + 8 * (-74) - x

@@ -1,0 +1,1 @@
+if ( d - n -( o )- h + p <( x < l )-( a )){ while ( y - u < p - e ){ if ( a ){ ; }else if ( n ); }}else ; 

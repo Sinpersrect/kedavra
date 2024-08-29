@@ -1,0 +1,1 @@
+-64 - log(e - c + phi + (log(e, -9) / phi) - phi / -7, asin(pi, e) + e / acos(-4.6, -3.7) + 4.2 - sin(-3) * -4137 - ((e)), 0.1, abs(fmod(-2, 0) / d_d) + fmod(t) + e * -0.8 * zu)

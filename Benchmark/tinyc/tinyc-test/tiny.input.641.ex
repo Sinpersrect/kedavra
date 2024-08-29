@@ -1,0 +1,1 @@
+if ( t - f - h +24-81< r + e -( s < d )-( w )+ z )if ( l = h + e -6< t - e -7)while ( v = w = d = c ){ do do { ; }while ( y );while ( d = g );}else if ( h + g - k < i )while ( m = f < j ){ { ; }}else if ( m = r )if ( e = s = s )if ( c = w < c )while ( q < x ){ ; }else ; 

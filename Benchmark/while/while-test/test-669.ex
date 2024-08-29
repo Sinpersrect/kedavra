@@ -1,0 +1,1 @@
+L = ((n+(n+L))+n) ; if false then L = L else L = (L+(((L+L)+(L+n))+L))

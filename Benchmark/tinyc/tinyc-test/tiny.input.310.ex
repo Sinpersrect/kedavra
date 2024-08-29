@@ -1,0 +1,1 @@
+if ( p = b = i +( f )< x - n +8)if ( a = d - v - y < f - k -( v < g )){ if ( n < n )if ( f = w < h )do while ( f ); while ( n < o );else do { ; }while ( e < e );else  a = u ;}

@@ -1,0 +1,1 @@
+L = (n+(L+L)) ; if ((L+n)+L) == (n+L) then while ~true & n == n & true & ~false & ~false & ~~false do L = (L+(L+n)) else L = n

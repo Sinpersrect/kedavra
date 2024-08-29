@@ -1,0 +1,1 @@
+{ { do if ( f )if ( p ); else do ; while ( b );while ( j < y );{ { ; }; }if ( s < m )do ; while ( c < n );else if ( r );  n < b ;; } y = y + a ;}

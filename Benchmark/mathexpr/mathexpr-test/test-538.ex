@@ -1,0 +1,1 @@
+(phi) + cos(hypot(-4, p, 0) - abs(e, phi) - -0.8 + 0 / e / phi, rsy, exp(e)) - fabs(log10(0, -3), (-6.2) - phi)

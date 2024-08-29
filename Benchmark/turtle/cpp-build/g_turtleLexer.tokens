@@ -1,0 +1,15 @@
+T__0=1
+T__1=2
+T__2=3
+T__3=4
+T__4=5
+MOVEMENT=6
+COLOR=7
+NUMBER=8
+SPACE=9
+'c'=1
+'fill'=2
+'repeat'=3
+'{'=4
+'}'=5
+' '=9

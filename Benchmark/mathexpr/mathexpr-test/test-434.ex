@@ -1,0 +1,1 @@
+degrees(phi) + (exp(0 - pi + phi) / degrees(-65 + 8)) / (-25.8 * ceil(3, -3)) * 0 - 77 + (pi) - 5 - ldexp(f) * ceil(e) / e - fmod(pi) * phi

@@ -1,0 +1,1 @@
+while false & false do skip ; skip ; L = n ; skip ; while L == ((L+(L+((L+L)+(L+L))))+(L+(n+L))) do skip

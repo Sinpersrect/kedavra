@@ -1,0 +1,1 @@
+!Forall(?2) _0(.C(?1J4K)) <-> Forall(?4wS) Forall(?3wrj) !#0x = .Qx(?I5)

@@ -1,0 +1,1 @@
+Exists(?H6Q) Forall(?JF) !_D(?f) <-> Forall(?p) #b = #k <-> !!_4(?Z) \/ !_h(?r) <-> !_a(#6, #w) -> #Y = .3(#n)

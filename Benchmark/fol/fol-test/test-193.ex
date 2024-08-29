@@ -1,0 +1,1 @@
+!Exists(?9) Forall(?s) !!_p(?E)

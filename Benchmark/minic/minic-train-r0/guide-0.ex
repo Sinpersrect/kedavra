@@ -1,0 +1,1 @@
+void a ( float a , float a ) { if ( a = a = ( a = 0 < 0 ) ) do ; while ( a < a ) ; }

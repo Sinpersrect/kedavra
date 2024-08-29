@@ -1,0 +1,1 @@
+!Forall(?V5C) Exists(?4) !_A(#1) <-> _p7eV(.S(.7(.c(?n)), #L), .L3(#9, #u, ?j), ?IbU)

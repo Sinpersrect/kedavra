@@ -1,0 +1,1 @@
+tanh(log((phi))) / ro + 0 * (floor(e) * -75) + fmod(phi, 7.27 + sin(0), p, acos(e), 0) - 3.7

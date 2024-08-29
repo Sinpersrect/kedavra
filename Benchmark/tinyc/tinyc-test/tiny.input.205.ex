@@ -1,0 +1,1 @@
+if ( f = w +( q < v )<( y < x ))if ( y = b - n - s ){ if ( d ){  u < a ;; }; do  e < h ;while ( y );}

@@ -1,0 +1,1 @@
+!Exists(?tEl) ?7JPos = .5Knug(.g4(.NOD(.Xo(.t(.9(#7, #8)))))) ^ _9(#L, .Z(.Nr(#Y))) -> !_ro(?2)

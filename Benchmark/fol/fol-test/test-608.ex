@@ -1,0 +1,1 @@
+!!!Exists(?T1) _1l(?e, .6(?W), ?Z, .by(.m(#F))) -> !Exists(?3Ux) !Exists(?t) ?x = ?U -> _d(.V(?2, ?7), #i, #G) \/ _5(.3(#Y, .2(?0))) \/ .p(?O) = .b(#1Qk) \/ Forall(?h) _20(.q(#1)) ^ Forall(?A) !Exists(?LBJ) _a(?a0, ?M) -> !Forall(?8R4) _1y(#7) -> ?xG = .L(?a, ?t, .G(#W), .4(.E(?l), ?F, #a)) ^ !.9(.H2Y(.6(.A(.U(#H, ?w))), #D), .m(#t), #h, #h) = ?5DZ -> ?5 = .qa16P(#T, ?U)

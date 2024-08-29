@@ -1,0 +1,1 @@
+fmod(6, pi - -6.7 / -511 - -0.94 + 0.9 - 0.39 * asin(pi * 4, (phi), e, phi) / tan(pi) * pi * tan(2) * 0, yq, -0.1 - u + 27 * 2.7668 - 296.1, 4 - r9_etb * phi * acos(0))

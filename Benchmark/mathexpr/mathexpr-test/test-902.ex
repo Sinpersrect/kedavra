@@ -1,0 +1,1 @@
+hbbh + -913 + -6.8 + e / phi - atan2(o + -0.44 / fnwo3gy)

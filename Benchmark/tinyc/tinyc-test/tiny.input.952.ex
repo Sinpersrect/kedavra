@@ -1,0 +1,1 @@
+do { do if ( y = x )if ( x < j ); else if ( n = r < e )if ( d ){ ; }else ; while ( x < g + p );if ( c = j )while ( t = j )if ( c )if ( d ); else ; else if ( k ); else ; else ; ; do if ( o < y ); while ( l < u );if ( v ); ; }while ( k = f - e -( y < s )+( v )<10);

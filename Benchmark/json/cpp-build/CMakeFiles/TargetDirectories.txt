@@ -1,0 +1,3 @@
+/home/clemieux/grammars-research/search-synthesis/new-examples/json/cpp-build/CMakeFiles/rebuild_cache.dir
+/home/clemieux/grammars-research/search-synthesis/new-examples/json/cpp-build/CMakeFiles/file_parser.dir
+/home/clemieux/grammars-research/search-synthesis/new-examples/json/cpp-build/CMakeFiles/edit_cache.dir

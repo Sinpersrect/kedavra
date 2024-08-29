@@ -1,0 +1,1 @@
+4 - fmod(0.8 - sqrt(phi, phi) * w + phi * dwj, tanh(7) + -1.0 * pi - -6.3 * -4)

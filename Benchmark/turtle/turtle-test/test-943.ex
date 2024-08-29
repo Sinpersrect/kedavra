@@ -1,0 +1,1 @@
+repeat 9 {f1 l0 } c Ctbc Atjtwa c Ome repeat 6 {c Gdi Ek } c Outujt Zc r6 c Ls Ono

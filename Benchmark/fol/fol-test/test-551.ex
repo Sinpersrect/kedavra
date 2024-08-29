@@ -1,0 +1,1 @@
+Forall(?uyKr) Forall(?k8VH) !Exists(?z) #E = ?JX <-> !Forall(?u) Forall(?zEad) !!Exists(?F) !_j(#9)

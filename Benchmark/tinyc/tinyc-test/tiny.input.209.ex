@@ -1,0 +1,1 @@
+{ if (0< v - w +8)do do ; while ( i < m );while ( h - p );else do ; while ( e = n = v = x < j );}

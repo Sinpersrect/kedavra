@@ -1,0 +1,1 @@
+l5 fill {fill {c Zk Ln repeat 6 {b1 f4 } } repeat 5 {repeat 2 {repeat 1 {l3 } } } fill {f7 } c Iepxu repeat 7 {b4 c Pa fill {c Cw } c Cwy Lbx } } repeat 9 {repeat 0 {c Ycd Pcc c Sjs Roi c Kt } r9 } c Jk

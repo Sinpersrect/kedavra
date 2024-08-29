@@ -1,0 +1,1 @@
+do ; while ( d =( c < t )+( v < f ));

@@ -1,0 +1,1 @@
+((-9)) - pi - gh722un7nn + 0 / (-5.44 / cosh(hypot(phi)) / modf(pi) + -0.1 - phi + (0)) * (pow(9299.703)) * qh_20b - 314.5

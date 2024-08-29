@@ -1,0 +1,1 @@
+if n == n then skip else while false do skip ; if true then skip else skip ; L = n ; if ~false & L == L then skip else skip

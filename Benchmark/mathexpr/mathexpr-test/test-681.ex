@@ -1,0 +1,1 @@
+((-6.36 - (k / hq + 5 / g90g) / pow(6.3124) + ezw - pow(zo, (ceil(-3)) + radians(phi) + 0, -2.9 / e, pi) * y * sinh(atan(-8.4), -3.86, e) * sqrt((fabs(e)) * phi, 9)))

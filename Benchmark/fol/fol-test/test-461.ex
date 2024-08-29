@@ -1,0 +1,1 @@
+Forall(?w) Exists(?3) _4(.Mq(?w), .6SV(?3), .1(.8Z4(.o(.T(.5(#Q, #t), #O, #2)), .D(.g(?A), #s, ?9)))) ^ Forall(?s3) !!!Exists(?A7W4) Exists(?N) _u(.2(?2, ?5)) ^ .b(.QU(.g(?4, .z(?P)), #2, ?U, .O(?N, #8), ?y)) = ?jbl -> ?XsIBf = .5tB1(.5Y(?U0s), ?k)

@@ -1,0 +1,1 @@
+while ( u = m - z +( y < y )-( g < t )){ if ( v + s < t ) o = v < i ;else do  j ;while ( g < d );while ( r = h ){ while ( f ); }while ( o = i )if ( o )while ( m ); else if ( n ); }

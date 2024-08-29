@@ -1,0 +1,1 @@
+Forall(?m) Exists(?tg) .5J(.RJrp(.4(?H4M, #om, ?6E, ?Z4E, .OQ(?G5)), #u), .M1u(.S(?N, ?4, #m, #uC, #p)), #2, #i0) = #C

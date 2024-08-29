@@ -1,0 +1,1 @@
+do do do  d = m = q = v = p ;while ( b = s = b = s = u < o );while ( l = l = n < i - o );while ( o - f -( d )+( o )<( c )- m + c );

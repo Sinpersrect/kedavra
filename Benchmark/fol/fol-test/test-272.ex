@@ -1,0 +1,1 @@
+Forall(?ib) Forall(?0) !!_t(#s) ^ _n(?i) ^ Exists(?J) .2(#4, ?C) = #8 -> _H(?O)

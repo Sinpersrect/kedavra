@@ -1,0 +1,1 @@
+ohz * e * pi + (pow(-1.0 - phi * (0) * pi - (-50.6) - -9 + exp(-7))) - 0.7 / k * 882.04 * -9.5 / e - abs(-9) * 6 + q / e + de - -235 + phi - rra * -759.5 - 54 / 0 - (0) / phi + tp + -3.2 * e * d_b - s / -6067.51 + radians(cos(2) * dnh, e - e, 0, -5, e) + -950 * ((tanh(pi) * 0) / h0v - e) * e * 0 + e / degrees(-0.947)

@@ -1,0 +1,1 @@
+Forall(?v) !!!_eo(.60(.d(#C5J, .Jr7(.EP(.4G9(.6E(?f)), ?9g)), ?j9), .H(?m, .H(?A))), ?0) <-> Forall(?EMX) Exists(?U) Forall(?Q0z) Forall(?8j0) !!!_E(.2(.p(#D), ?0, ?6, .2(#p, #F)), .K(#4))

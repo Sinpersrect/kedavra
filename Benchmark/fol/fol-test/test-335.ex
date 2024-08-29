@@ -1,0 +1,1 @@
+Exists(?6) !!.g(.Vuv(?5), .fg(.H(#l, #7, ?3, .2(#K, ?3)))) = ?9w -> Forall(?u) Forall(?vF) Exists(?eW) Exists(?60) Exists(?i) _4(#o) <-> _9(?x, #1) -> !Forall(?K) _6(#x, ?W) -> _v(?3, #6, ?T) ^ _rjO(#q, .DE9(.S(#Ty)), #H)

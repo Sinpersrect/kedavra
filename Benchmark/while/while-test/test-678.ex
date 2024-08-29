@@ -1,0 +1,1 @@
+L = n ; while L == (((L+(((n+L)+(L+(L+L)))+(n+L)))+L)+n) do L = (((n+L)+n)+L) ; if ~true then L = n else L = n

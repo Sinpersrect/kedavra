@@ -1,0 +1,1 @@
+{ if (( l < y )< h + g +5)if ( l + o )while ( t ) w ;else do {  y = f < r ;; }while ( x = j = w = w < n );while ( c - q < c ){ while ( a < g ){ ; }if ( r < x ); else ; }}

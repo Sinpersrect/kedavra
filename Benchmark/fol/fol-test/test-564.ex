@@ -1,0 +1,1 @@
+Forall(?nCt) _P(.Se2(.R(?7))) <-> Exists(?g) _Vg(.18(#gWL), .0n(?3), ?D) -> Exists(?zU) _qpXd(#7) <-> Forall(?9) .U(#6) = .b68(.w1Nz(?w, .10(?o, .Z(#4, #3))))

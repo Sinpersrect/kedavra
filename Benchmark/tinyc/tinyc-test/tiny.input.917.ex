@@ -1,0 +1,1 @@
+if ( v +82<( b ))while ( a = c = r + y < g - h )do  v = c + j < t + v ;while ( t = x - e );else do { if ( r = d = y < j ){ if ( z < x ); else ; ; }else { if ( o < g ); ; }}while ( f = v = a + v < v + e );

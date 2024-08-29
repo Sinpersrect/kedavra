@@ -1,0 +1,1 @@
+Forall(?396) _xMnxc(.Pu(.t(#E), .7x8Fv(#Ha, .2(?K)))) <-> _k(#U)

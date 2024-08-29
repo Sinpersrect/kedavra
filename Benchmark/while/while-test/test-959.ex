@@ -1,0 +1,1 @@
+while n == (n+n) do L = L ; while false do skip

@@ -1,0 +1,1 @@
+while ( n + r + x -( j < e )- z ){  f - u < r - e ;}

@@ -1,0 +1,1 @@
+repeat 6 {fill {repeat 7 {fill {f5 } } repeat 9 {l6 b2 c Bk Km repeat 9 {b0 } b5 } } c Goggex f3 }

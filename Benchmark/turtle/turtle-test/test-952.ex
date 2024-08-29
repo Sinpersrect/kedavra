@@ -1,0 +1,1 @@
+repeat 1 {c Elb Wtk r6 c Wxk c Dpmx }

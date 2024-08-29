@@ -1,0 +1,1 @@
+skip ; while n == n do skip

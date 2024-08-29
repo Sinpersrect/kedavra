@@ -1,0 +1,1 @@
+do while ( n - n <4-( v < g )){ while ( k < i )while ( n = s ); }while ( r =2- s < k + u +2-( e < t ));

@@ -1,0 +1,1 @@
+while ( j <( w < h )-( w = f < y ))do if ( y = i = n = k = j < q ) q - j -8;while ( n = i + n - m <4);

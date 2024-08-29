@@ -1,0 +1,1 @@
+while ( z = n =( v < o ))do while ( s = p = d < s ); while ( z + z - j +( i )< i + e +( n )+ g );

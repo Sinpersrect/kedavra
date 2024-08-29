@@ -1,0 +1,1 @@
+while ( z +7-( j )+2)do if ( o = z < f - a )if ( v = j = g = e < e )while ( r = x ){ ; }while ( f = e = b );

@@ -1,0 +1,1 @@
+if ( n = i = k = a + z < s - n ); else  x = w + o + z - g ;

@@ -1,0 +1,1 @@
+if ( q = k = e = f = n = l = d )if ( r = x = b = r < z )if ( f < x - c )while ( i + i )while ( i = m = l )if ( f = h )while ( n < z ) i < c ;else ; else do if ( c = r = p )if ( p < t ) i ;else  e ;while ( i - c < q - s );else ; 

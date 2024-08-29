@@ -1,0 +1,1 @@
+atan2(pow(pi)) / asin(e, -9)

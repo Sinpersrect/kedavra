@@ -1,0 +1,1 @@
+Forall(?t) Exists(?71L) !!#k = ?T

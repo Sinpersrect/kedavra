@@ -1,0 +1,1 @@
+if ( n = c = i = u - y < d - f )if ( d = y +( l )){ while ( m = j < t )if ( f = w ); else  t = q < a ;}else do if ( a = m )while ( r < l ){ { ; }}while ( z = i = m < r );else do 87;while (2- j < v -2-( x ));

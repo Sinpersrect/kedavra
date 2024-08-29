@@ -1,0 +1,1 @@
+repeat 3 {c Ku Xvip fill {r7 fill {b1 } } c Ux }

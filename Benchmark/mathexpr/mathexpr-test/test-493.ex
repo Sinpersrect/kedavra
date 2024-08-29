@@ -1,0 +1,1 @@
+e / (71.0 * phi - (phi + pi) + atan(pi) - 0) + 288009 + (0.73 / 9.8 / pi + -2.6 - -5) + (phi - 5) + phi * pi + 28 / e / acos(cos(pi), e)

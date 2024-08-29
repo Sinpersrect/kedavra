@@ -1,0 +1,1 @@
+while (6)if ( e = z - u + a ); 

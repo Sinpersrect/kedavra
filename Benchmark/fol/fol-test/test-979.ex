@@ -1,0 +1,1 @@
+Forall(?5) _4(#X) <-> Exists(?gfL) _mD(?t2kOU, #OR6)

@@ -1,0 +1,1 @@
+(1 - cosh(12.4, e / -617 + pi * k * c_d * 0 * degrees(0)) / phi - abs(phi, bz1_l - as - pi, -29) + hre + -83992.3794 / (c / 98 / 0 + phi + 88.6) - (8) + -0.3 * e * 0 - 82.2 + pi - cosh(h, pi, 0) + pi + 0 - (0) - -83 + -29.5 + (radians(pi)) * e * m_5a * 2.9)

@@ -1,0 +1,1 @@
+repeat 1 {fill {l0 f2 repeat 8 {r2 } c So Os } c Gs } c Betf

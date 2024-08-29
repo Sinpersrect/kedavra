@@ -1,0 +1,1 @@
+phi - sin(pi / acos(phi / ((4.8))) * sin(ldexp(pi) / e + e)) + (0.79 * ((0.19520 + 0.7 * (phi) + -4 * phi)) + ngm_t * mo / -45 - 1) * phi

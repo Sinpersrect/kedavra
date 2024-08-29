@@ -1,0 +1,1 @@
+(phi * (ffj) / cos(sin(1, -4) - floor(phi)) / (phi) / hypot(phi) - 0 - w_n + e)

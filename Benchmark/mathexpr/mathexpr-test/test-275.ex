@@ -1,0 +1,1 @@
+sinh(u_r) + lkvn - -4.8 * phi * 92 + gso + 0

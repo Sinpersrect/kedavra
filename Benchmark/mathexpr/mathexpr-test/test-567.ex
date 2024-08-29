@@ -1,0 +1,1 @@
+(f + rl0k + e * frexp(e, e) + -4 / pi - 0 / pow(abs(1), -8, pi) - (floor(phi)) / phi * 8.88 - 6 - acos(phi) / 0.0 + (pi)) * 49 / -0.3

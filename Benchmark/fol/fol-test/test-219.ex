@@ -1,0 +1,1 @@
+Forall(?x) Forall(?G0) Forall(?9) Exists(?6) ?q = #4 <-> ?N = ?y

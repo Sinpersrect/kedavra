@@ -1,0 +1,1 @@
+fill {fill {l1 } f4 repeat 2 {fill {b1 } } c Ft repeat 4 {b9 fill {l9 } r2 repeat 0 {b6 } } repeat 1 {repeat 4 {b7 } c Zacj Tj } repeat 9 {c Gv c Nsb Rk repeat 8 {fill {r6 } } c Xi } fill {fill {repeat 4 {l3 } repeat 6 {f6 } } } repeat 7 {c Oo } c Vh }

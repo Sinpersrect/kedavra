@@ -1,0 +1,1 @@
+pex_r - pi + (2.339) / atan(a) * cosh(-3) / e / -5 * 0.060 / (2) / 0 * rq_a - 58.5 * 4 * fabs(hm) / -0.81419 * tanh(u1v, phi, 0) * ceil(pi) + phi - d9f - phi + -18 * cos(phi) * asin(2)

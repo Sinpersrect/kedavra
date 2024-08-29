@@ -1,0 +1,1 @@
+while ( b =0) r = f = n = u + y < j + v ;

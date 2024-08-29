@@ -1,0 +1,1 @@
+{ if ( g - f -( j )<( s < s ))if ( k = b )if ( e = p < n )do  q ;while ( d = k );else do ; while ( b );else if ( k - r < i - z )do  k < a ;while ( p = t < i );else { while ( b < p ) z < u ;; ; }}

@@ -1,0 +1,1 @@
+int a ( int a , bool a , char a , bool a ) { a < a ( a = a = a < a , a = 0 < ( a = a + ( a + a < ( a ( a , a < a ) + a + a ( 0 < a + a ) ) ) - ( a = a ) + 0 < ( a < a ( a < a ( 0 - a + a - 0 , a = a = a < a , a = a < a ) ) ) ) - a ) ; }

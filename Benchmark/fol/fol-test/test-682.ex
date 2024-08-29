@@ -1,0 +1,1 @@
+Exists(?24) Forall(?N) .ucy(?h2) = .qg8(#6, .7(.O6x(.Cn(.u(.3(.MC(.0u(.6(?l))), #5, .a(#x)), #id)))), .hM0o(?AqN, .YMHLu(.U4Q(.lq(.o(.1(#9))), #z2)), .d(#4I), .L(.0(?Z), .66Gs(.kD(#L), #B))))

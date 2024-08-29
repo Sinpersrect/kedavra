@@ -1,0 +1,1 @@
+if L == ((n+n)+L) then while L == L do skip ; skip ; skip else skip ; skip ; skip

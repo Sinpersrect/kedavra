@@ -1,0 +1,1 @@
+Forall(?9xR) Exists(?5) !Forall(?W) !!Exists(?3) _P(#F, #9) <-> .l1(#D) = .FU(.D(#U)) -> !.v(?G, #2) = .t(#p, ?3)

@@ -1,0 +1,1 @@
+while true do skip ; L = (L+L) ; L = n

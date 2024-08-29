@@ -1,0 +1,1 @@
+Forall(?RM) !Exists(?m) _Y(?k, ?H, ?3) ^ Exists(?6) ?I = .3(?V, #s)

@@ -1,0 +1,1 @@
+float a ( int a , char a , int a , bool a , int a ) { int a ; }

@@ -1,0 +1,1 @@
+{ while ( a = m = s < h )while ( e )if ( k = j = l < h )while ( t < v ){ ; ; }{  n < g ;}if ( p = c )if ( x < w )if ( g )do ; while ( n < g );else while ( k = u ); }

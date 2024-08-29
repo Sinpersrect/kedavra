@@ -1,0 +1,1 @@
+do do ; while ( h = d = b + z < z + c );while ( b = p = m = j = e = k );

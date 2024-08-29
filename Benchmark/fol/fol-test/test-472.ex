@@ -1,0 +1,1 @@
+Forall(?Z) !!_4(.6J(.D(#J, .E(?8, #O), .X(#k, #0)), #X9), ?E, ?l, .X(#S), ?2, ?L, .MRq(?y8)) ^ ?z = .QJ9(#fB, ?E2) -> Forall(?Nku2) Forall(?Xx) _0(?rs88V, .n(#w, #Y), .t(.u(#C, #f)), ?AX, #8, .70(.9(#yL, #U)))

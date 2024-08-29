@@ -1,0 +1,1 @@
+if (1<41+15)while ( s = j + d -7< q - h - v )if ( i = c = y < b )if ( n + y < n - f )if ( v = l = f )if ( n = g < o ); else if ( g = f = z )do if ( z )if ( i < v ); while ( x = v < v );else if ( o = h < q )if ( d < h )do ; while ( v < l );else  e ;else if ( y )if ( d ); else ; else while ( g + v +6+ t )if ( h = n = b ) z - k +( r );else ; 

@@ -1,0 +1,1 @@
+c Jc Ztuda repeat 4 {fill {fill {b6 } } c Bedr Tb }

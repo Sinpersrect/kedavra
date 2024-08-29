@@ -1,0 +1,1 @@
+do { while ( k = k = j = r ){ while ( x < b ) l < w ;} n = r = z < u ;; }while ( z = f = j - f -( u )< f -( m ));

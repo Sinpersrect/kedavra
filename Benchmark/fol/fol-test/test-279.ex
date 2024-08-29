@@ -1,0 +1,1 @@
+!Forall(?C) !Exists(?8) !_z(#n) \/ ?d = #8 ^ !!?N = ?A \/ .TG(.Z(?O, ?t)) = ?Qx

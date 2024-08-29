@@ -1,0 +1,1 @@
+tanh(fmod(-0.517 * pi - phi) + -8.554 + phi) * 9 - -3.6 - asin((pi), 0.9) - 4 * pi - phi + -8

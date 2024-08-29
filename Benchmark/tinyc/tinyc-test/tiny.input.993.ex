@@ -1,0 +1,1 @@
+{ do ; while ( g = t + v < t );{ if ( v )while ( k ) f < p ;else if ( d < o ){ ; }}}

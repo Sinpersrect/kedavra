@@ -1,0 +1,1 @@
+!Exists(?y) Exists(?M) #m = ?E -> #1 = ?8 ^ !Forall(?E) #L = ?p <-> _p(#r) \/ _j(?5)

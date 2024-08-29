@@ -1,0 +1,1 @@
+if ~~~(n+n) == n then while true do L = L else while n == L do if false then if false then L = n else if n == ((n+L)+L) then while ~~~true & true do L = n else if ((L+L)+(n+n)) == (L+(L+(n+L))) then L = n else if false & true then L = (L+L) else while true do L = n else skip

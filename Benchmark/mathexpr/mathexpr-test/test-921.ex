@@ -1,0 +1,1 @@
+-0.825712450 + pi - degrees(tanh(e), log10(phi * phi / e, (pow(3)) / (pi)) + w) / e / 8.3117 * 0.8 * -1 * -3 - 144.0 / sqrt(-5) / -63.9 + phi + -89 / fs_t - p0y8r - -0.696 - e - -80 + -434 * -70 - cos(exp(z, asin(phi), -8)) - 3 / -40466 + ldexp(0, 1) * pi - radians(pi) + -21 + sin(degrees(9) / e, phi) + (4) * -58 / (9.9 * pi) - (pi)

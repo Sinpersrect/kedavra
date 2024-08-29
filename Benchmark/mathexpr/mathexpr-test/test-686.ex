@@ -1,0 +1,1 @@
+abs(degrees(((80.0 * -2.3 / -0.14 + -9 * 0 + pi * phi - (1))) * tj - phi * ((e * phi) + e / 0) - phi * pi - t - radians(pi) / -5 / (8.2) * -1 / (0) + phi) + ((pi)) / -3.9 + k / sin(-2.6, phi), acos(phi), w, -0.7, e, phi)

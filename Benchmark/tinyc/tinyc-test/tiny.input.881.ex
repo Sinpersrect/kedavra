@@ -1,0 +1,1 @@
+if ( n = p = a - y - w < u - o +( e ))while ( q =4<( e )) u + e +( p )- y ;else { if ( s = z )while ( s )do if ( k ); while ( a );do  g ;while ( b = f < g );}

@@ -1,0 +1,1 @@
+fill {f4 } fill {repeat 4 {f8 repeat 3 {c Kst f6 } } } repeat 1 {c Yf Avz c Uts Yc c Zchty Be repeat 7 {c Hr fill {r3 } } b7 repeat 8 {repeat 4 {b8 r3 c Jq } c Beadbw Zov } }

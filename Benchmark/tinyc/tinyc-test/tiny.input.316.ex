@@ -1,0 +1,1 @@
+while ( x = a = q - a -( u )< i -5)if ( a =( f < l )< u + f -2); 

@@ -1,0 +1,1 @@
+((e + log(0.9) + phi + sinh(phi) / -9.1 - phi / (abs(e) * -8) + z / wpi * ((-0.9 * -4) - 64.3 + -6) - floor(-2) - e * phi / 7) + asin(ceil(kir), e / 6.1 / 0, (t)) + ((bg + -9.2) * 0.7 + 9 / cos(phi)) / radians(-2 * v1d - e, tan(phi), app, e, -9) + ceil((pi)) * 8.49 - r_e + (-4) * pi * sinh(sin(-9), -4, 0)) / 8 - e - h / -0.4 * (sqrt(-47.6))

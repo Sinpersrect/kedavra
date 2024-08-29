@@ -1,0 +1,1 @@
+if n == n then L = L else L = L ; while false do L = L ; skip

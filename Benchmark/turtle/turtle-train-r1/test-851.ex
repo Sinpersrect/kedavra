@@ -1,0 +1,1 @@
+repeat 4 {l5 } c Tesu Hd repeat 1 {repeat 6 {c Jg } }

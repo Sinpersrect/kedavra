@@ -1,0 +1,1 @@
+do while ( l = e = a = t = l = z )while ( w = g + c < e + q ); while ( g = g - m -4-( d ));

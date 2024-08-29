@@ -1,0 +1,1 @@
+while ( g = b = h + m - a ){ while ( j = p = a < y )if ( x )if ( a )if ( f )while ( z ); else ; ; }

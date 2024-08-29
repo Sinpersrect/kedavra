@@ -1,0 +1,1 @@
+tan(5 + phi - (g - e) / f / atan(4) / k_t - phi / -0.7 - log(e) - phi, 3 * phi + e * (8) / s_dl / -7.9 * pi * 0 * phi / 0 + phi, s * 341 * -3.3 / x_q - 0 * e, o, (7.0) * 0.5 + e)

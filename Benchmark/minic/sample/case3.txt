@@ -1,0 +1,30 @@
+start:n0
+n0: "int" "IDENT" "(" ")" "{" "IDENT" "<" "NUM" ";" "}"
+  | n3 "IDENT" n5 n7
+  | n2 n1 ";"
+n1: "IDENT"
+  | n1 "," n1
+n2: "char"
+  | "bool"
+  | "float"
+  | "int"
+n3: n2
+  | "void"
+n4: n2
+  | n4 "IDENT" "," n4
+n5: "(" ")"
+  | "(" n4 "IDENT" ")"
+n6: n6 "-" n6
+  | "NUM"
+  | "IDENT"
+  | n6 "+" n6
+n7: "{" n8 "}"
+  | "{" "}"
+n8: n6 ";"
+  | n7
+  | ";"
+
+n0: "int" "IDENT" "(" ")" "{" s "IDENT" "<" "NUM" s ";" "}"
+n6: s n6 s "+" n6
+n8: s n6 s ";"
+n6: s n6 s "-" n6

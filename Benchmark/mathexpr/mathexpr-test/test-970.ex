@@ -1,0 +1,1 @@
+phi + mxum5j * t3d / lgkk_k - 716 / 0 - (8) / atan((74.6) - 0, degrees(-5), 5) * axgo * 2.7 / -25 + (7) + phi - sqrt(0) / 2.9 / (phi) * 2.7 + pi * -7 / (979 / 0) - phi / -3 - 2 / (sinh(phi) + -9) / (-592.2) * ((-5261.1 * c / e) * m / floor(-5)) / fmod((-3)) * 76 * e + frexp(-8) * -7 / 9 - c * (mvj) * -82 + 0 - 0

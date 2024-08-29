@@ -1,0 +1,1 @@
+do while ( u = u = z = e = y )while ( e = k - r < m - r ) k = w - t ;while ( a = l = w + t <( a ));

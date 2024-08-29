@@ -1,0 +1,1 @@
+while ( h -6+591){ ; while ( k )do ; while ( s < v );}

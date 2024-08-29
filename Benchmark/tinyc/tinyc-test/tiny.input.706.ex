@@ -1,0 +1,1 @@
+if ( n -2<( u = k ))while ( s = t - x +( i < j ))if ( k = d < l )while ( w - h < g + i )if ( k < a )if ( z = w < r )if ( t )while ( h < b ); else ; else if ( i ){ ; ; }else if ( i )while ( p < s ); else  s < q ;else do do if ( q ) k = c = c = t < u ;else do  a = z = a < w ;while ( f = v = a < z );while (( p ));while ( c = a = p < c );

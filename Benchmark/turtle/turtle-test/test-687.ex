@@ -1,0 +1,1 @@
+c Npmac Ic f8 fill {fill {repeat 3 {l8 fill {r2 } fill {l2 } } } c Kahk Owj }

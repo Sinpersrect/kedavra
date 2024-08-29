@@ -1,0 +1,1 @@
+do do do if ( a + e < d + b ) b = c = v = o < e ;else if ( s < y )if ( f < j )while ( r ); while ( s = h < s );while (( q < s )+ u < p -( c < c )+ o );while ( w = p - v -0-56);

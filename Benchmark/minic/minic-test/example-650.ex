@@ -1,0 +1,1 @@
+bool a ( bool a , int a , int a , char a , int a , float a , bool a ) { while ( a < a ) { } }

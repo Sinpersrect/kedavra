@@ -1,0 +1,1 @@
+if L == ((L+n)+n) then if (L+n) == L then if ~(((L+n)+L)+L) == L then L = (n+L) else skip else L = (L+n) else L = n

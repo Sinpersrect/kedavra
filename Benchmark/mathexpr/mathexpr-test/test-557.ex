@@ -1,0 +1,1 @@
+(tanh(-65.3, (fsf80_h), abs(sqrt(0)) - (-3) + atan(7)) * fmod(acos(8)) + ye - log10(0) * tan(5) / bzo + 5 + e) - sinh(0, e) / iu__y / -9

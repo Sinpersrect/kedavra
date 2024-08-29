@@ -1,0 +1,1 @@
+{ { while ( o = j = y ) g = d = o < y ;while ( l < w )while ( p < h )if ( i ); if ( b ){ ; }}if ( o - o )do while ( c < n )if ( r ); while ( n = d = l );else ; }

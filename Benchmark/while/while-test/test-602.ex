@@ -1,0 +1,1 @@
+while ((L+((n+L)+L))+((L+(L+n))+L)) == n & (L+n) == n do skip

@@ -1,0 +1,1 @@
+!!!Forall(?u) Forall(?wH) Forall(?W5E) Forall(?6) _hVd(?b9S) -> !Forall(?8) !_D(.7A(.Up(.X(#5), #e), #4, ?u, ?z, .U(#5, #7, ?4))) ^ _z(?N, #7XA) -> Forall(?1y4y) Exists(?f756) #Bh = .ypaB(#Uf6) <-> .bf(.k(#XkI)) = ?xn \/ _Rt8(#x, #X) -> Forall(?45) !!Forall(?J) .M(#z, ?AeMS) = #IF5 \/ _SVBG(?C, #Z7WT)

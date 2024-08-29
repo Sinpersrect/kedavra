@@ -1,0 +1,1 @@
+while L == L do skip ; if ~true then skip else skip

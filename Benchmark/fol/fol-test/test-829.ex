@@ -1,0 +1,1 @@
+Forall(?G) !!_k8FR(.U6teA9(.M1(.f27MfXp(.8527n(?Pp)), ?o))) \/ Exists(?6) Exists(?7) Exists(?4) Exists(?mSo) _tb(?F, .b(.d8(.21(.J(.d(#a, #4), #4), #5), .z(.5(#6), ?x, ?N))), ?o) ^ Forall(?U) Exists(?0) Forall(?jRNruc) !Forall(?5JPT) !_nP(#X)

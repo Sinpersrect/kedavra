@@ -1,0 +1,1 @@
+if ( q = v = s = u + l )if (6- q ) r <84;else if ( b +( c < d ))do ; while ( h + u < r + d );

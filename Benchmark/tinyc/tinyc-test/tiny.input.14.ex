@@ -1,0 +1,1 @@
+do { if ( v = l ) f = t < k ;else { while ( h < p ); }}while (( p < l )+ r -6<( r < y ));

@@ -1,0 +1,1 @@
+repeat 1 {b1 repeat 0 {r0 } }

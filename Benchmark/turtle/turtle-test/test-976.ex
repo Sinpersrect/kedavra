@@ -1,0 +1,1 @@
+repeat 2 {c Ox Kf } repeat 5 {b7 repeat 3 {f1 fill {r8 } fill {r9 } repeat 2 {r9 r0 } } c Dwxl c Tu Br repeat 8 {c Bv b9 } repeat 0 {l9 f2 fill {c Hza } } } repeat 6 {repeat 3 {repeat 2 {c Vk Gj c Md } c Rhpy } } c Mca Tjg fill {fill {c Qhq Hf } }

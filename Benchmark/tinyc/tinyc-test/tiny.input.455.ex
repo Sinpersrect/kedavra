@@ -1,0 +1,1 @@
+do while ( l = b = h = d )while ( s = g = q < f )do  m = l < h ;while ( x + t );while ( m = r +( v )- c < a -( h )+ j );

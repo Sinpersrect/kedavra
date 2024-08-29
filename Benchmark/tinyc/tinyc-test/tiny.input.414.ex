@@ -1,0 +1,1 @@
+while (( w = s ))if ( w - z <( v < g )+( z < k ))do if ( c = o = j = n < p ); while ( q = s = w );else while ( o +5)if ( q - k ) i = k = b = v < x ;else {  p ; w ;; }

@@ -1,0 +1,1 @@
+cos(7.5 * 27.2) / fmod(sinh(r, (phi)) - phi * 3 - pi + e + (e) / 0) + 75.5 / (e * -0.6 * phi) - -923 / pi

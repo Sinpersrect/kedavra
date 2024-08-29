@@ -1,0 +1,1 @@
+!_JRl(#6) ^ !Exists(?98) !!!!!!_7(.M(?J)) -> Exists(?4) Forall(?v) _4(?x) ^ Forall(?6) _q(.n(#z), #4) ^ Forall(?iPL) _13(?V5Wn, ?T) <-> Exists(?FaLz) Exists(?yt) Exists(?4) #290 = #FX3

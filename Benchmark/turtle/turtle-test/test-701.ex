@@ -1,0 +1,1 @@
+c Ahh c Wc Mk c Oo Noo fill {repeat 6 {l2 } c Xq fill {r0 b6 repeat 7 {r4 } } c Bon fill {repeat 4 {f9 } c Al repeat 5 {repeat 5 {l6 } } } l3 } fill {r8 }

@@ -1,0 +1,1 @@
+(acos(0 / 9 + -12.9 + phi, e, e, tgt1o - 6 + phi))

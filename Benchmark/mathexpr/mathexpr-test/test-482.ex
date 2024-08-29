@@ -1,0 +1,1 @@
+(i * h_7dx) * log10(sin(43) - modf(-3, phi), zry9o - sinh(phi) - tan(1) / 1)

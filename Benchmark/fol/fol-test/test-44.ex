@@ -1,0 +1,1 @@
+Forall(?Yqw) #a = ?5 \/ ?a = #7 -> _b(?Q) ^ !_F(#E) -> _3(?P) \/ #O = ?X -> Exists(?b4) Exists(?A) ?L = ?W -> #7 = #n

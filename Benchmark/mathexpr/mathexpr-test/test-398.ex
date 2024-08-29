@@ -1,0 +1,1 @@
+(msz * ceil(-73.29 / 2.2, pow(-1, pi) * 7, phi) / (7.09 - pi / e) / pi * (pi) - pi + 0 * 0.6 / -6 + fmod(tanh(e)) * acos(e) + e / 8.2) - -16.6 + p

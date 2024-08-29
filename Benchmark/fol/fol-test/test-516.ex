@@ -1,0 +1,1 @@
+Exists(?PA) !!Exists(?c) ?0 = #z2 <-> .6XB6(.r(.N6(.m(#x, ?o), #R, .e(#f)), ?O)) = .Nt(#bFc) ^ _k(#V, #Q) ^ _CA(.X(.c(?01, #9)), .4aP(#J))

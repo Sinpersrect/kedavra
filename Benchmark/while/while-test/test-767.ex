@@ -1,0 +1,1 @@
+L = L ; while false do L = (n+L)

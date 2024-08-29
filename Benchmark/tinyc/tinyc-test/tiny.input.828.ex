@@ -1,0 +1,1 @@
+if ( v = z = k - j +2) g = e = t = g + v < h ;

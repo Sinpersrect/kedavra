@@ -1,0 +1,1 @@
+repeat 6 {b8 c Gh } fill {f3 }

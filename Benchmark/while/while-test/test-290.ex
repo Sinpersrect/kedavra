@@ -1,0 +1,1 @@
+L = (L+L) ; while true do if true then if L == L then skip ; skip else if false then skip else skip else skip

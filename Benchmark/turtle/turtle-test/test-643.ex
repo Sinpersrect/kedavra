@@ -1,0 +1,1 @@
+fill {b6 fill {b6 } c Ty Ga f4 b5 c Kjvy Mcttk c Az Mc } fill {r5 fill {r7 } } c Gl Hwf f6

@@ -1,0 +1,1 @@
+Exists(?uk) Forall(?69) Exists(?l1) !Exists(?0) ?9 = ?p

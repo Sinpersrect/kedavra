@@ -1,0 +1,1 @@
+_N(?O6, .P(?p, #5)) <-> !Forall(?30) Exists(?Q) Forall(?1) _1(?t)

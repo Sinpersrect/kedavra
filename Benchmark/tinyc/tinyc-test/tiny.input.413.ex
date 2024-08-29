@@ -1,0 +1,1 @@
+{ if ( r - b - a < o - t +8){ do { ; }while ( i = p );while ( f < b )do ; while ( l < g );}{ { if ( y ); else ; ; }do do ; while ( g < z );while ( w < r );if ( j ); }; }

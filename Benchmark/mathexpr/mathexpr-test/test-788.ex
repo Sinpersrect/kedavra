@@ -1,0 +1,1 @@
+s / phi - -0.5 * (eys + e - pow(phi - e + -9, -9.7) * (acos(6) - i / -1) / floor(0) / n_t / pi - pjv + e - pow(0) * 52.4 - 0 * o9fvq - pi + e * phi / phi + 0) / (tanh(-8))

@@ -1,0 +1,1 @@
+Exists(?h3) Forall(?033) Forall(?f) Forall(?i) !.I(?X) = ?1 <-> Forall(?8) ?0 = #O ^ _1(?wN, #h, ?7, .u(.t(#x))) -> !_4(#R5Ao, #6w0)

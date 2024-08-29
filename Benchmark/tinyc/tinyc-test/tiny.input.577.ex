@@ -1,0 +1,1 @@
+while ( v = n = m = s + d )if ( g = h + c +( q < a )){ do do do { ; }while ( t < l );while ( p < h );while ( l );if ( d )do if ( u < z ); else ; while ( e < h ); b = x ;}else while ( w = t - a < a + c ) p = q + n ;

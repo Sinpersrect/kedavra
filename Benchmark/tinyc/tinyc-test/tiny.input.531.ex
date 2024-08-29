@@ -1,0 +1,1 @@
+if (( o )+ i -914<( a )+ k -000)if ( h = a = q - h < u )if ( c = f = k )if ( s = y = r < g ); else if ( d = r = e < e ); else while ( a = q )if ( y )do ; while ( z < s );else { ; }else while ( r = l ){ while ( i )do ; while ( t < f ); a < p ;}

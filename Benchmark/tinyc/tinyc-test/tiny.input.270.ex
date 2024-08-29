@@ -1,0 +1,1 @@
+{ if (9< y + e )if ( h + o )if ( w ){ while ( q < v ); ; }else while ( z )if ( k = j )if ( g ) i < o ;else  q < l ;else  f = r + x < q - q ;;  d - l < q - v ;do ; while ( z );}

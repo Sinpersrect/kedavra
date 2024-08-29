@@ -1,0 +1,1 @@
+while ( a = d = j -7< l -8)if ( d = h - u - q < c + q +0) p - w + s +5;else ; 

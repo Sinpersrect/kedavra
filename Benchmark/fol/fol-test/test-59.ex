@@ -1,0 +1,1 @@
+Forall(?VG) Forall(?q9o) _8(.7(.q(#0, ?3)))

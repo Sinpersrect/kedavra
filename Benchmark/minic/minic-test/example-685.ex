@@ -1,0 +1,1 @@
+bool a ( bool a ) { 0 < a ; }

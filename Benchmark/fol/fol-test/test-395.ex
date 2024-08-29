@@ -1,0 +1,1 @@
+Exists(?62zB) !!!Exists(?P) Forall(?2) Forall(?A) #G = ?H <-> !_K(.O(.JD(.x0(?6, #Y, ?t, .E(#0)), .0(.E(?F))))) ^ Exists(?gLU) Exists(?1E) !Exists(?d) !_o(?J, #4) -> _2(?b)

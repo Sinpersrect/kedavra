@@ -1,0 +1,1 @@
+while (L+n) == n & n == n do L = L

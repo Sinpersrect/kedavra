@@ -1,0 +1,1 @@
+if (( s )+60< b - w + c -04- w )while ( l = a + x +( c < w )< t + n -4)while ( o = o < e - y )while ( u = o )do  q < r ;while ( w = r = n < w );

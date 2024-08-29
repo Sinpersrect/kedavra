@@ -1,0 +1,1 @@
+int a ( int a ) { ( a < a ) < 0 - a ; }

@@ -1,0 +1,1 @@
+bool a ( float a ) { a ( a ) < 0 ; }

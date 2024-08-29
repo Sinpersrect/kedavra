@@ -1,0 +1,1 @@
+(pi / ((-7.36 / (odj) - pi + pi)) + pi / phi * -28 + pi - pi / 8.5 / modf(e) - sqrt(e) - phi * asin(tan(2), e, phi) / -3.2 * pi + -1) / z + z + 79 / d_n_a * 0

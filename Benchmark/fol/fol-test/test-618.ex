@@ -1,0 +1,1 @@
+Forall(?0X) _Qp(#l)

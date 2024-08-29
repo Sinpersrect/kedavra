@@ -1,0 +1,1 @@
+pi * fmod(pi, -7421.4 * (cos(phi))) * nv * -0.8 / asin(x, 0) * pi * 0 / 1 / u6c * phi + 96.6

@@ -1,0 +1,1 @@
+while (7-( f < k )+44)if ( t + k - i +9< o ) v = j + j < w - d -1;else if ( e = y = b = o = d )do ; while ( r + e < j - t );else if ( w + o ); else ; 

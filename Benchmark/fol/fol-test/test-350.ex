@@ -1,0 +1,1 @@
+Forall(?A9X) Exists(?R) !!!Forall(?7Kz) ?C = ?X -> Exists(?i) !_1(#S) <-> _E(?Y, .1(?Y, #E)) \/ !Forall(?j) _S(#d, #f, ?Z) <-> _y6(.N(?k), #A) <-> Forall(?S) Forall(?1) !Exists(?sb) _F(#6, ?C, #y) -> Forall(?G) Exists(?8) _B(?M) ^ #o = #r \/ _w5(.0J(.1(?q, #5), #5, ?6, .p(?1)), ?c)

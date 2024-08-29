@@ -1,0 +1,1 @@
+!?fOiRj3 = ?Kvtn -> Forall(?Nk) Forall(?f) .JZ(.48(?2, #4, #T, ?8)) = ?a \/ Forall(?Z) _gK(?aT)

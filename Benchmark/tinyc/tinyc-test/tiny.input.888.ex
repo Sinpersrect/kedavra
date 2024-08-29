@@ -1,0 +1,1 @@
+while (04< s + f +( e < a )- p - c ) w = w = f = p + e < d + q ;

@@ -1,0 +1,1 @@
+!!_n(#f) ^ Exists(?wBg) Forall(?db) .B8SYt(?3, .S9(.Fx(.BWee(.8(.j(#O)))), #7dUD, #oW)) = #7 ^ _8K(#1o8m, .S(#1h), .f(?gMW))

@@ -1,0 +1,1 @@
+while (( m = y < t )< j + r + e +7)if ( m <6) z - i -( i < g );

@@ -1,0 +1,1 @@
+while ( u = k = x = f )if ( o = p + j +( j < t ))if ( u - i -( k ))if ( g = y = e ) d = d ;else  q = i = l = k ;else do while ( l < p )do while ( m < p )if ( j < z ); while ( s < d );while ( f = a );else  v = q = a = x < f ;

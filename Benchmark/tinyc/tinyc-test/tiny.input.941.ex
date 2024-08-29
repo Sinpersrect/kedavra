@@ -1,0 +1,1 @@
+{ do  v + s +7< l - h -( i < j );while ( j = x + q < v + o );}

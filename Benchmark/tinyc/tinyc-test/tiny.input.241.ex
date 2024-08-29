@@ -1,0 +1,1 @@
+do  t =6;while ( c = i - c +0<( l ));

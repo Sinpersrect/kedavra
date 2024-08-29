@@ -1,0 +1,1 @@
+c Ktybze Wj c Eyociw Mf c Sr fill {fill {b6 } fill {l4 } fill {l8 b7 } } c Nuvkx Ox r5

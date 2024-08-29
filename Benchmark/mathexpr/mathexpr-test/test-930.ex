@@ -1,0 +1,1 @@
+(t_n * (modf(e + sajpz + -4 + hypot(pi, 0) / (e)) - (-9402 + 0 / qob_p) / pi / pi / tp5p + sin(e) / pi + i * 8 * 19.1 * pi / sqrt(-0.5 - y, 0 / 82.7) / 15.668 - asin(pi) * phi - 9) + (pi))

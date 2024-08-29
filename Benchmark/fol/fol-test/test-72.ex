@@ -1,0 +1,1 @@
+Forall(?K) Exists(?q) Forall(?6g) _K(?z) ^ #j = #M

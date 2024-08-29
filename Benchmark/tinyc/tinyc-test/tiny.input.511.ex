@@ -1,0 +1,1 @@
+while (( b < x )-524)do if ( m = t = r < q )do  c - m < m ;while ( j = p = v = w < b );else while ( x = p )do { if ( l < w ); }while ( y = l = z < b );while ( k = b + s );

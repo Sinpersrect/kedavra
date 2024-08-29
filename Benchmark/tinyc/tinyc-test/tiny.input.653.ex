@@ -1,0 +1,1 @@
+{ { while ( c )while ( z )if ( r < e )do ; while ( k < p );else ; }}

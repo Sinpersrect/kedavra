@@ -1,0 +1,1 @@
+!!Exists(?86T) Exists(?A) Exists(?3) !Exists(?3q) _Wz(.mti(.W4O(?E))) <-> !!.6F(?6SD, #35) = .T(#7, #4, ?zgC1) <-> !!_Z(#Y, .jX6(?q)) -> !.OIP(.0(.Czi(?H, .d(.7(.F(#N), ?3, ?B))))) = ?9 ^ Forall(?3N) _i8(.d(#N, .c(#H, ?v), .8(?h), ?e4)) <-> Exists(?U) .T(.f(.l(?5KY))) = .1RS(.j(.h(.2O(?5, #l, #C, #4, .0(.W(?H, #5), #4))))) \/ .kX(?L, #y) = .D4(?F) \/ #t = .R(?1h4)

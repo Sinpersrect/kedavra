@@ -1,0 +1,1 @@
+-6.83 / ht - log10(asin(945447), aqsn_co) - 3 * phi + 8 + (-0.59) * -39.1 - (3.597818) / log(-9.70265 + -0.17 + 37 + hypot(phi) / j / -1 / cos(7.4) * m / pi - 0 * g + radians(phi) + phi / pi * -4) - 0

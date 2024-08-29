@@ -1,0 +1,1 @@
+do if ( j < x - k -5+( j < w ))if ( p = p + k < x + k )if ( j = a = q )while ( r < t )while ( w = o )while ( n < z )if ( a ); while ( v = j -41< s );

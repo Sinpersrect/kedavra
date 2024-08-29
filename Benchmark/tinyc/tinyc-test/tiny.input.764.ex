@@ -1,0 +1,1 @@
+while ( b = k = a = m = f < w )if (4-9<( q < u ))do while ( v + n ); while (( m < s ));

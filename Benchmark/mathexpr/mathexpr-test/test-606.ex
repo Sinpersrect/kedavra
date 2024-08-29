@@ -1,0 +1,1 @@
+0.622 + 0.689 / (pi * -2 / ((pi)) - pi / pi) - e * z * ppa7t / o2d * fmod(e) / ((0)) / (e + 2.3 - l_c) / e * t / (log(phi)) + phi + -5 / 0 * cosh(e) / 8 / 1 + 0

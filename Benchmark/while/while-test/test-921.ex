@@ -1,0 +1,1 @@
+L = (n+((n+(L+(((L+n)+n)+((n+n)+L))))+L)) ; if ~L == (n+n) then L = L else skip

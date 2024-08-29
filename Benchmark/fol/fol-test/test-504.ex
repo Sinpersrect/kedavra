@@ -1,0 +1,1 @@
+Forall(?S10K) !_BU(.dw(.n(?f), #35), ?zT4, #ha) -> .H(#Er) = ?G <-> Exists(?f6) !!_N0s(.6(#I), ?U) <-> !_96(.9(#q), #e, ?H, #D) \/ _K(.E(#4)) -> Forall(?H) !!?u = #h <-> #b = #1 \/ !!!#w = #B <-> !Exists(?6) ?6 = #1 \/ Forall(?A) _6(#b) \/ _GG(#25)

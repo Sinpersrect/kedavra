@@ -1,0 +1,1 @@
+if ( g = q + b -7-1)if (( d < p )+( n )< g - a -( o < x )- a )if ( n = b = y = b = m )if ( h - y )do ; while ( j < x );

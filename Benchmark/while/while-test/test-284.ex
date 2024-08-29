@@ -1,0 +1,1 @@
+skip ; while ~true do while ~false do if false then skip else skip ; while true do skip ; L = L

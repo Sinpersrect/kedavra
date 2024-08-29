@@ -1,0 +1,1 @@
+do if ( h - w +( g < n )+0< l + y -( v < r )- n ){ do  b ;while ( w < b );}while ( y = p =( n < r ));

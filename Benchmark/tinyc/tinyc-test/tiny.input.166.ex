@@ -1,0 +1,1 @@
+while ( r = l = u = t = q < m )while ( e - q +2)do do  e = f ;while ( p - i < v - k );while ( p );

@@ -1,0 +1,1 @@
+if n == L then L = L else if (L+((n+(n+n))+((L+(((n+n)+(L+(n+(L+n))))+n))+(L+(L+L))))) == n & false & true then L = (n+(L+L)) else while true & true do if ~false then while n == L do while false do if false then skip else skip else while n == n & true do L = (n+(L+n)) ; while true do while true do while false do if false & false then L = n else if true then skip else skip

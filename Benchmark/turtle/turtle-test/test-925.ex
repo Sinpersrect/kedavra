@@ -1,0 +1,1 @@
+fill {c Ni fill {l6 c Qqo fill {b1 } fill {b6 b8 fill {r2 } fill {f6 } c Us } f1 } fill {c Sey fill {b5 fill {r5 l7 } } l8 repeat 1 {c Ozf Jlkbo } } }

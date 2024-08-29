@@ -1,0 +1,1 @@
+fht44_u - phi * vk

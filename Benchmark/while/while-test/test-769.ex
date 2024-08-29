@@ -1,0 +1,1 @@
+while false do skip ; L = n ; while ~~L == n do while false do L = n

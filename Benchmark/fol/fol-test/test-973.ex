@@ -1,0 +1,1 @@
+Forall(?9) Exists(?69) Exists(?a) !?7p = .xjv(?h, #Y, .b(?s, ?Y), .2(?7), #f, #d, ?b4, ?7Dg) \/ _lc18GY(.2(?d, ?6, #TDt2qW2)) -> _2Y(?0)

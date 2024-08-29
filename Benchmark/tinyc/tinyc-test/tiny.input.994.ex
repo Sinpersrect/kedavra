@@ -1,0 +1,1 @@
+if ( o =1)if ( w - t -( v )-1< p - z - i -9)while ( s - y +( h ))( g )<8;else do { do if ( o < e ) u < d ;else do ; while ( g < d );while ( e = p < y ); h = y < z ;}while ( i = n = z = b = m < j );

@@ -1,0 +1,1 @@
+Forall(?PAK) !_7(#Prd)

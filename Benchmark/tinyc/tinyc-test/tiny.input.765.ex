@@ -1,0 +1,1 @@
+do if ( j = a = j - y < t )do if ( w + a < f )if ( t < n ) r = w = j ;while ( u = u = d = c );while ( h = b + w < h - h -( t < k )-24);

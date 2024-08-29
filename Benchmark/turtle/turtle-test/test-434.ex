@@ -1,0 +1,1 @@
+c Avo Qfr c Mnk c Tp fill {c Nt c Dhh Wd } r7 repeat 7 {l5 b5 c Ff } c Apz Xfl

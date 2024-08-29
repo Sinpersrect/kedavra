@@ -1,0 +1,1 @@
+if ( k = e - u - v -17)do  f =5< e - x + j ;while ( c = v = y - i < s - j );else do do { if ( v = b < t )do if ( a ); while ( q < r );}while ( e = j = o );while ( t = k = d + d );

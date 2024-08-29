@@ -1,0 +1,1 @@
+-9 + cosh(((-0.4) * phi) - -4.770) / ((0 * atan((k1q) + ouv + phi / pi + 0, (phi), 7 + 2) - (-0.4) - -0.8 - log(e) - (e) + phi / (iuphs_r))) / 500.9 / cos(hypot(atan2(tan(3, pi) + floor(e) + pi) * 0.3 * -0.1 / pi / -72.9 * sqrt(phi, -7) / e + 0.1 * phi / 54.3), pi, log(floor(0.9, -4), phi) / (-5.38 - (hypot(e)) + phi) - pi + pi - pi * fmod(3), (322) * atan2((phi)) + dus)

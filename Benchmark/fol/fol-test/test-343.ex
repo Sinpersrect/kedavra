@@ -1,0 +1,1 @@
+Exists(?pSH9) Exists(?xQ8) Forall(?64) !_5(?R, ?L2, .s(.2(#Y))) ^ !Forall(?T92) _w(#3) <-> Forall(?1) ?j = ?J -> Exists(?1) Exists(?2) ?I = #3 \/ _Z19u(.he1(?K))

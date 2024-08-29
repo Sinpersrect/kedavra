@@ -1,0 +1,1 @@
+repeat 6 {c Xoxb Gsa c Ad }

@@ -1,0 +1,1 @@
+c Cnmloj Fji repeat 3 {c Czd c Pt } fill {c Qj Cf }

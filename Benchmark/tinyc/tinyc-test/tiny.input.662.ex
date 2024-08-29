@@ -1,0 +1,1 @@
+if ( a + m -6- p )if ( p + e < j + z -( y ))do  x = o + k ;while ( l + f - x );else while ( l = y = q )if ( n < m - c ){  h < y ;}else 0+( v < j )+( s < u )< s +( x )-( q )+( z < u );

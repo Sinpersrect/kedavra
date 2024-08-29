@@ -1,0 +1,1 @@
+!.7FOM(#A, ?Gpg, ?0) = ?5 ^ Exists(?3z) Forall(?d) _M(.N(.E(.ec(.2u(?T), .Q(.6(?D, #W), ?8))), ?g))

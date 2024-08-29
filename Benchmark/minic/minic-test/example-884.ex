@@ -1,0 +1,1 @@
+int a ( char a ) { 0 < a ; }

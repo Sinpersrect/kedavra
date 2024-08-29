@@ -1,0 +1,1 @@
+Exists(?8sm) Exists(?bB) _2(.m(?9)) \/ !Exists(?TS) Forall(?X) Forall(?p) ?n = ?f

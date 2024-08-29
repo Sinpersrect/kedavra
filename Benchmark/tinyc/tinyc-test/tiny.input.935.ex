@@ -1,0 +1,1 @@
+if ( a = k = y -4< r )if ( f = u = d )if ( e -7)if ( c = g = e < y )while ( k ) q = x ;else while ( a = n ); else do { if ( r < i ){ ; }else { ; }do ; while ( a < e );}while ( p = y = l = x < t );

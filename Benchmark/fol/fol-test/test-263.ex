@@ -1,0 +1,1 @@
+Exists(?G) Forall(?2) Forall(?AC) Forall(?0) ?h = ?G \/ !_2(#D)

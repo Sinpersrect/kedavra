@@ -1,0 +1,1 @@
+fabs(abs(-5) / 7, guc)

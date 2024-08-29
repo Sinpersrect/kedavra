@@ -1,0 +1,1 @@
+while ( t =( h )+ d ){ if ( t + m < p )while ( v = j < u ); }

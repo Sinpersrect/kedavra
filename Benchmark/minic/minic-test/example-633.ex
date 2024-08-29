@@ -1,0 +1,1 @@
+bool a ( char a , float a , bool a , bool a , float a , bool a , bool a ) { do ; while ( a ( a + a - a + ( a ( a = a = a , a ( 0 , a < a ) ) + ( a ( ( 0 ) < a ( a < a , a < a ) , a = a + a , a + a < a , a = a < a ) - 0 - 0 ) ) ) < ( 0 - 0 < 0 + a - a ( 0 < 0 ) ) ) ; }

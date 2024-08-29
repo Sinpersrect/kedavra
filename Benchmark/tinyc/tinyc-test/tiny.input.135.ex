@@ -1,0 +1,1 @@
+while ( x - g +( a = x )<( x )){ ; do  w = u ;while ( n < y );}

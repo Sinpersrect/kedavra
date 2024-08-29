@@ -1,0 +1,1 @@
+while ~false do if false then skip ; if ~~true then L = L ; if true then skip else L = L else skip ; if L == (((n+L)+L)+((n+(n+n))+(L+n))) then L = L else skip ; skip ; L = ((((n+(L+n))+n)+L)+n) ; skip else L = (n+(L+n))

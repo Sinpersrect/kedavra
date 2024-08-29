@@ -1,0 +1,1 @@
+!!#3 = #F ^ Exists(?3) _z(?5, ?5) ^ Forall(?Q) Forall(?8) Exists(?o) #P = ?R -> Forall(?xp) Exists(?m) !#E = #w

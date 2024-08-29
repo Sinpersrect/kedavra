@@ -1,0 +1,1 @@
+repeat 3 {c Zrn } c Bnc

@@ -1,0 +1,1 @@
+(cosh(9 / 4 * -3 + (-42.4) * 9 - phi)) / 0.41 * -3.9 + m5qx / ((6)) * q * atan2(2) / pi * phi / floor(phi) * phi * phi * -5.17 / e

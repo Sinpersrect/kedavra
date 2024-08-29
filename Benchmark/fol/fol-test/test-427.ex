@@ -1,0 +1,1 @@
+!Forall(?T) Exists(?s) _47Fz(.d(?T), .Z(.bxk(#e3)))

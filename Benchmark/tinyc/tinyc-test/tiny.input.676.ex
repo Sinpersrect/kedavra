@@ -1,0 +1,1 @@
+while (8- l +057< x )do while ( c -8< k + v + g )if ( p = s < m )if ( q = y = o )if ( c ){ ; }else ; while ( q = o = w < x - h );

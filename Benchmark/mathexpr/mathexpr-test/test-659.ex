@@ -1,0 +1,1 @@
+tanh(phi, e * thhc / pi / phi + o - zsd * 8 / -4 - phi)

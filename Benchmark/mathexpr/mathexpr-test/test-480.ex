@@ -1,0 +1,1 @@
+abs(exp(phi + ceil(pi) / pi, 2 + -8.5 * -3) + -4 - exp(2.0, pi, 3) + -0.4 + f - pi + (degrees(e)) + -8)

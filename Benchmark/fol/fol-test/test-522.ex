@@ -1,0 +1,1 @@
+!Exists(?JX1w) !Exists(?vC4YU) _ew(?8) -> Exists(?z) Forall(?k) !Exists(?6) _t(.z(.N(#e, ?g), #j, ?w), ?x, #s)

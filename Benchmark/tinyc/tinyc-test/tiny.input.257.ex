@@ -1,0 +1,1 @@
+if ( u = d - c +( x )- o < f )do do ; while (6);while ( z + w +8+ o < s - h - d -1);

@@ -1,0 +1,1 @@
+repeat 2 {c Ee Zp } fill {r8 l6 } repeat 2 {b7 } repeat 3 {l3 } r1 l6

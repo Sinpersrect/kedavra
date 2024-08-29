@@ -1,0 +1,1 @@
+bool a ( int a ) { while ( a < a ) { } }

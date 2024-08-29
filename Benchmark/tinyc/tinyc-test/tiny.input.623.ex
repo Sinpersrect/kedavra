@@ -1,0 +1,1 @@
+do if ( s =( b )) q <( m )+( t < w );else  a = f = z = s = r ;while ( n = s - y -6- q );

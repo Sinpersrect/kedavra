@@ -1,0 +1,1 @@
+Forall(?1) Forall(?V5) Forall(?7OVE) Forall(?m) !_0Gs(?k, #l) -> !Exists(?6) !.EZ(#8, #N, #L, .A(#8)) = .4(#1) ^ Forall(?z) !Exists(?b) Forall(?P) _d(#D) <-> .J(?I) = .D(?k)

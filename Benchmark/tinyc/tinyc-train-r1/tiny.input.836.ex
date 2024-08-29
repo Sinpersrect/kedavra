@@ -1,0 +1,1 @@
+while ( f = y = f = t )while ( j = z -5)do { while ( c < e ); }while ( g = c + a );

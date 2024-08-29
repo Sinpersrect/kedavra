@@ -1,0 +1,1 @@
+(abs(pi)) * pi + (tikha__x) - degrees(p_3_hc - (4) + (-5.14) + pi / -2.2 / pi * pi + (0), ceil(frexp(2, -9))) / xqzt__i - t / ((98) * 0.3 + phi * 9 + pi) / (7.1 / e) - (e) - (0.53 - tan(-5) * 0) + 0.73 + (modf(-5)) + ldexp((exp(phi, pi))) / -4773393.26

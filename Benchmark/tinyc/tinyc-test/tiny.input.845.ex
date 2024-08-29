@@ -1,0 +1,1 @@
+while ( n = v - n + h <( z ))while ( g +4+( f < d ))if ( b = x )if ( f ) t = r < q ;else ; 

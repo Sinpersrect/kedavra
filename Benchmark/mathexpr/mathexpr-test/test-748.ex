@@ -1,0 +1,1 @@
+e / -70.09 + s - phi + 308 + (17.241) + tan(phi / 1 / log10(log(-9)) / (-46) / cos(pi) - phi + pi - (-3.51) * tanh(phi) * 3 / x)

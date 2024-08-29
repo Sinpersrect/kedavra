@@ -1,0 +1,1 @@
+hypot(-2 / o + (-66.5 * nb - x_o - pi) + log10(phi) * -28 + p)

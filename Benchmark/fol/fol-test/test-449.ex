@@ -1,0 +1,1 @@
+Forall(?fVbiO4q) !!Forall(?4Z) Exists(?a8) !!!Forall(?5) _f(?x) -> !_H(#a, #l) ^ _2s(?x, ?1) ^ !Forall(?7u) _4C(?6f, .7(.F(?O, #z), #t)) \/ !Exists(?l4) Exists(?2) _O(#9) ^ !?I = #1 -> _I(#4) <-> !!!Forall(?3T) Exists(?7) Forall(?N) #J = #S <-> !.b(.S(#L, #R), ?S) = #l \/ Exists(?l2) !#G = #E <-> _0(?F) -> _M(#o)

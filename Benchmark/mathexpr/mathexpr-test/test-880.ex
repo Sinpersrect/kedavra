@@ -1,0 +1,1 @@
+-0.9 + phi * 0 + e - acos((phi + pi)) / phi - ((pow(fabs(pi * e), eg - (gre), exp(phi, 6) - -3) + sin(-6 * phi * pi) * (0.69) * ldexp(0) - fabs(-1) / exp(-9, phi) * radians(7) / 4)) * j + (-518437.783 / (ra_r * (1)) / exp(e, pi) / -7 / e) * log(phi, -11.1) - 2.3 / floor(cosh(e)) + atan2(-94.0) / c1v__s / 8.2

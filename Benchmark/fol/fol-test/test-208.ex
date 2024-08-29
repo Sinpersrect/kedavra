@@ -1,0 +1,1 @@
+!!Forall(?x) Forall(?M) _I(?M) <-> _9(?9, ?a) -> Forall(?D) #C = ?R ^ Forall(?g) .Z(#v) = #o ^ _G(#N, ?v)

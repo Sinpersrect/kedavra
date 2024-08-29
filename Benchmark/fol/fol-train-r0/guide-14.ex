@@ -1,0 +1,1 @@
+Forall(?v) ?Q = ?K

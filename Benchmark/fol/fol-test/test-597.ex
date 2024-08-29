@@ -1,0 +1,1 @@
+Forall(?Zn) !_l(?i) <-> Forall(?rA0O) _HD(.J73Sj(?y, ?M))

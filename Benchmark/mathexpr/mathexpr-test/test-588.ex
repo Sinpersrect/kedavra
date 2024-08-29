@@ -1,0 +1,1 @@
+xy7c / (77.3 - cos(-6, w, 6)) + ((modf(pi) * -7.4 + phi) + 97.26) * radians(t, 2)

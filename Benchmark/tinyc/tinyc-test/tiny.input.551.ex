@@ -1,0 +1,1 @@
+do do while ( s = u = r )while ( c ) l = u ;while ( n =( f )< v +2);while ( c = u = n + d +( n )< p + w - n );

@@ -1,0 +1,1 @@
+repeat 8 {repeat 1 {fill {c Zqc Wb } } } c Ga Srl

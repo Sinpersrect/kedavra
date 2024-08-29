@@ -1,0 +1,1 @@
+!_k(#P5M) -> Exists(?d) Exists(?g7) !!!!_n(#e) -> _u(?e7)

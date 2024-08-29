@@ -1,0 +1,1 @@
+if ( n + p +6+( m )- h < g -( x )+( o < s )+ u ){ do do while ( z = m )do  b ;while ( y < z );while ( x < n );while ( t - s < j - x );if ( g = a ); else do ; while ( i = f < j );}

@@ -1,0 +1,1 @@
+while (( e = w < k ))while (84)if ( c = q = t = r = j < t ); else  w = d = n < u ;

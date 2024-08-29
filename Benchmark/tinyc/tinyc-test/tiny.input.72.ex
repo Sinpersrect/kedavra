@@ -1,0 +1,1 @@
+while ( q =19){ {  d = f ;if ( q < z ); else  g < f ;while ( l ); ; ; }do while ( f = x )if ( x )if ( t ); else ; while ( n = i = t < w );{ do ; while ( e );; }}

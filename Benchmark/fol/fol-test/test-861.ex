@@ -1,0 +1,1 @@
+!Forall(?qc3) !Forall(?j) !_wd(.AQ(.9F(#Vj)))

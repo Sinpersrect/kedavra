@@ -1,0 +1,1 @@
+repeat 2 {repeat 2 {repeat 7 {c Hkc } } c Wughlc } c Fs c Si Nnv c Xfj Go

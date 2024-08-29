@@ -1,0 +1,1 @@
+repeat 1 {fill {repeat 2 {c Rp repeat 6 {r6 } c Jro fill {c Yr } c Ag Fb } } } fill {c Rnkjzseaj }

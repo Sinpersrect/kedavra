@@ -1,0 +1,1 @@
+void a ( int a , bool a , float a , int a , char a ) { { } }

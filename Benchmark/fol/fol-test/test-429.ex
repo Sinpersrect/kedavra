@@ -1,0 +1,1 @@
+!Forall(?1) !!Exists(?bU0) .7(#V, ?6) = .n(#k) -> !Exists(?8RL) Exists(?Pe) _sD(.S(?2), ?D, #z) <-> #a9g = #g

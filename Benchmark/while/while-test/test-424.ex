@@ -1,0 +1,1 @@
+while ~n == n do if true & false & (n+L) == n then L = L else L = L ; L = n

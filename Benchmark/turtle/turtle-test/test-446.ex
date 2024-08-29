@@ -1,0 +1,1 @@
+repeat 0 {repeat 1 {l6 l9 c Bc Cx } r5 fill {repeat 2 {b2 } repeat 9 {b0 r9 } } } repeat 0 {fill {b8 } fill {l7 } fill {l8 c Ke Du } fill {r5 r4 repeat 7 {f0 } c Cv } } c Zgacum

@@ -1,0 +1,1 @@
+!Exists(?64) Exists(?AQ) Forall(?b) !_9(#E) -> _Q(#2)

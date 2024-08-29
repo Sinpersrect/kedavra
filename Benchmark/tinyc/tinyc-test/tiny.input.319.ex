@@ -1,0 +1,1 @@
+while ( y = c = x - t < b -1)do if ( y + f + y <( j )); while ( n = b = b = p < a );

@@ -1,0 +1,1 @@
+telnet://2Z1.LoWW:999/

@@ -1,0 +1,1 @@
+Forall(?Q9661) !Forall(?xXXM) !_6(?N) -> Forall(?I) Exists(?C) _3jI(#U)

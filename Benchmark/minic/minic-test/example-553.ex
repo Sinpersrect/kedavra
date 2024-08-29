@@ -1,0 +1,1 @@
+bool a ( int a ) { a ( a ) < 0 ; }

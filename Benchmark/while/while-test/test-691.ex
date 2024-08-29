@@ -1,0 +1,1 @@
+if ~true & false & L == L then skip else L = (L+L) ; L = n

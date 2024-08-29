@@ -1,0 +1,1 @@
+((pi) + sb1q - 6.700 - oaehmtc - (sin(a / 9, pi) + ldexp(e) - sinh(4) + phi) - 0 + 4.3 / 0 * -4 / -55 * e - 4 / modf(pi) - -5 / -3 * phi + ap * ceil(pi) - 8.3 + e - 0.29 - r0__g - (k9j) + -7 + e * e * phi / phi - 3 + -1 / e + phi / fmod(phi, e, 0.8, pi) / fxd_b - 8713.7862) * (4) * it

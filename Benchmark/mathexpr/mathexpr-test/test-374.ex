@@ -1,0 +1,1 @@
+frexp(e_b * a, z / atan2((-7)) + 270, -3 * 601.2 - e * pow(-2) + 0, -60 - r_n * -2 / -9.1 + 7, radians(pi), atan2(phi)) - e - pi

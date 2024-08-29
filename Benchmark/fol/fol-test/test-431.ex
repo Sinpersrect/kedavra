@@ -1,0 +1,1 @@
+Forall(?ly) ?OcA = ?e

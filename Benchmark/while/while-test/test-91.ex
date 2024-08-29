@@ -1,0 +1,1 @@
+while true do skip ; while ~true do L = (n+L)

@@ -1,0 +1,1 @@
+{  g = d = u - h < i ;do ; while ( x < c + n );while ( s < k ) v = h < r ;if ( p ){ ; ; }}

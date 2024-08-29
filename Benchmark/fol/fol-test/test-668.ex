@@ -1,0 +1,1 @@
+Forall(?ex) !Exists(?2HI) !Exists(?s) _c(?V2) <-> Forall(?8) Forall(?1lr7) _4(.m(.fp(.861Sh(#tJT), ?3, .0(#z), .W(#s), .M(.2(.u(#7)), #d), ?xqr, ?g7)))

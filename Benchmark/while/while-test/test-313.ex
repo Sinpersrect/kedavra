@@ -1,0 +1,1 @@
+while (L+((n+n)+L)) == n do if L == n & n == n & false then if ~n == n then L = n else L = (n+L) else L = n

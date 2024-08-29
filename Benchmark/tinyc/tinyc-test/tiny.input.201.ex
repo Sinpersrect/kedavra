@@ -1,0 +1,1 @@
+while ( w = g = v < k ){ while ( j + n < l )if ( f )while ( y = y ){ ; }while ( l = z = p < u )if ( e < y ); }

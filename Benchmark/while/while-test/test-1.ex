@@ -1,0 +1,1 @@
+if false & ~~false then if n == L then if ~true & true then if n == L then if true then skip else skip else if true then skip else skip else while true & false do L = n else skip ; L = n ; if ~false then L = L else skip ; skip else skip

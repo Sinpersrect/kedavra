@@ -1,0 +1,1 @@
+phi + radians(hypot(3 - 0.7076 + m - (0.5 - -8) + e / -1 + -0.6, oid / sinh(7) - t_z + (pi) / phi / pi) - e * ((sin(v3i) + (z) * 0 / 3 / 6)) + (sqrt(-7, 1) * (pi) / 8) * (0 * phi / phi + ldexp(8)) / 1.8 / (9706 * -0.4 + -7) + pi + (w9o) / 31)

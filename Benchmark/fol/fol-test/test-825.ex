@@ -1,0 +1,1 @@
+!!Exists(?F) Forall(?6) !!#x = #y5 \/ !#p5U = #d

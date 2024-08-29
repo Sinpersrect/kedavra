@@ -1,0 +1,1 @@
+if ( k = f - x - m -40<8+84)if ( u )while ( f - g +( t )){ if ( d < t ){ ; ; }else if ( i < s )while ( p ); else while ( t ); }else do  x = w + j -4<7;while ( p );

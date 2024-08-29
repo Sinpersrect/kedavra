@@ -1,0 +1,1 @@
+int a ( bool a ) { if ( a < a ) { } }

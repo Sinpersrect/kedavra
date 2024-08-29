@@ -1,0 +1,1 @@
+repeat 2 {c Ln c Mt repeat 1 {c Il } c Pjxb Nr fill {c Tu repeat 1 {r2 } } } repeat 5 {fill {fill {r0 } } repeat 6 {f0 c Od fill {f2 } } }

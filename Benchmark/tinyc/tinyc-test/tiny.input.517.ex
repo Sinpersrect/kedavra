@@ -1,0 +1,1 @@
+if (( d < d )+( s )-4<02)do while ( e = v - u ){  f = d ;}while ( v +8- n < q + h -6+22);else if ( z - j +9+ t < r -5+ w ){  k = d = m = d < l ;if ( c ){ ; }}

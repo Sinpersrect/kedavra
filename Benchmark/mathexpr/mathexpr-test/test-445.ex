@@ -1,0 +1,1 @@
+(atan2((((s78y - kwn))) + e, ldexp(2.8) * e, 1.141 + abs(e) + 6 / 5, -1 / -9) / (modf(-1 / phi - 2) * 5.52 + abs(-1, phi) / m - 0 * (1))) / pa_b

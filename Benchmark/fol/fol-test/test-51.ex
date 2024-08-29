@@ -1,0 +1,1 @@
+Exists(?Dj) !.f(#N) = .F(#X, ?j, #P) <-> Forall(?99) !!_j(?V)

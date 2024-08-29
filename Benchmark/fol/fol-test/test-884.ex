@@ -1,0 +1,1 @@
+Exists(?310) Exists(?6) Forall(?x) !_8eY8(?3) -> !_c(.S(.C(?N))) ^ !Exists(?pZ) #g = #c \/ ?S = .w(.b(#W, ?e, #NT))

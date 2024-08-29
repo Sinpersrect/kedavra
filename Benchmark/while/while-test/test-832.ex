@@ -1,0 +1,1 @@
+while L == ((L+L)+n) do while true do L = (L+n)

@@ -1,0 +1,1 @@
+?G = ?1am <-> Exists(?7U) Forall(?m30jHx) Exists(?97) !!Forall(?N91) Exists(?V) _u(.U7(.95t(#0, #d))) ^ .B(.hED(.I(.0i(?U0), #8), .q(.gdS(.KNA(.Zc(#C, .t1(.Z(?8), .Q(#I, #M)), ?I), ?8V, ?6, .44(?P)))))) = .l(.q(?70))

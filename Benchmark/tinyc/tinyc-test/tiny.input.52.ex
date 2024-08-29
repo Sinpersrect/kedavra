@@ -1,0 +1,1 @@
+while ( f = g = z = r = n < j )while ( m = j = v - l < c )if ( d + g +6<( s < p ))if ( q = w = p < o )while ( j = r = f )do while ( l )if ( n ); else ; while ( j < v );

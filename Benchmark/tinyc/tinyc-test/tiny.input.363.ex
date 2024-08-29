@@ -1,0 +1,1 @@
+{  p = k = r + m < k ;do do if ( t = j < t )while ( x ); else do if ( a < k ); while ( j );while ( b = w );while ( b - t );}

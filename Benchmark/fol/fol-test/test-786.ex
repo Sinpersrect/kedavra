@@ -1,0 +1,1 @@
+!!Forall(?3H) _j00(.3(?q, .K(?M8, ?i), ?k9M)) \/ Forall(?79) Forall(?2) !!Exists(?Zy) .L(?rwh) = #1 ^ .lL(.K(.4g3(?7, .6(.X(#0), ?0, ?m), .V(.4(.o(#i), #A, ?G))))) = .46I0(?N) ^ _ciIpet(.g(?D)) ^ Forall(?xe780) .t8(.a(#E4c, ?6)) = .MYQ(?2, .t(?qQl3, ?z, #R)) ^ _dML8Vv(.7(.hh(?7x, .8W(?yaQVU))), .yQ2hA(?j))

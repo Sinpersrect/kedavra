@@ -1,0 +1,1 @@
+Exists(?u) ?r = ?N

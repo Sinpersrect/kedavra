@@ -1,0 +1,1 @@
+atan2(pi, (x) / (atan(5.0943 * p / fabs(9) / pi)) - pi + (3.339) * -56 * degrees(7) + phi / atan(-4) * -4.657 + phi / phi) / e / pi + e

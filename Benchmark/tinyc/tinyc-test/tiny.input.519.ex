@@ -1,0 +1,1 @@
+do while ( f - r +( m )+ a )if ( x = d = v )5< e - d ;else  s = d = r < f ;while (61+ i <( f )-( f = r < s ));

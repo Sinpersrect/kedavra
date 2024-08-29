@@ -1,0 +1,1 @@
+ceil((e - abs(tan(-6), pi) * -2.5 * cosh(e) + -6), atan2(r_j, cos(-7))) - 6411 - -662.75 - atan2(e - phi) / (pi / e) + phi + 0 + (-6 - (pi)) - (ldexp(phi)) + s / sinh(e, e) * abs(0) * phi * 6 + 6 - -39 + atan2(-4, e) - pi + e / (6) * 4 / hlg6i

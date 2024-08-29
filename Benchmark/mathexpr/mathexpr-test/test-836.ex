@@ -1,0 +1,1 @@
+(b * abs(0.0) - abs(8.17) * e + -0.23 / radians(phi, -230) + pi + atan(phi - e * pi) * s + fabs(2, -7) + 0 / -11.8 / pi + (ldexp(-4, -8)) / 92 - phi + 0 + -5 + log(phi))

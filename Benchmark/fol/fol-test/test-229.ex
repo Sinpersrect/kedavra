@@ -1,0 +1,1 @@
+Forall(?03) !_V(.Z(.5(?n, #D)), .e(?7, ?2)) \/ Exists(?j) Forall(?n) _O(?l) \/ _3(#f) -> _B(?W)

@@ -1,0 +1,1 @@
+(radians(-6 + pi / 0.0) * phi / 0 - pi - frexp(pi) / k7n / e + phi / 0 + cosh(pi + -8, radians(pi), phi, -7)) + 448 - cos(phi, 5, 1) + -214 + log(pi) - 0

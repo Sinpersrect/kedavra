@@ -1,0 +1,1 @@
+if (n+n) == L then L = L else while n == (n+L) do if n == n then if false then skip else skip else if false then skip else skip ; skip

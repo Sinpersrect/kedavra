@@ -1,0 +1,1 @@
+void a ( bool a , char a ) { if ( a < a ) { } }

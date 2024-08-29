@@ -1,0 +1,1 @@
+{ ; { do if ( n ); else do ; while ( z );while ( z < w );}if ( l )if ( s = d ){ ; }else if ( r < l ) v < f ;else  k = d < t ;{ do ; while ( i < d );}if ( f < h )if ( c < g ); else ; else  q ;}

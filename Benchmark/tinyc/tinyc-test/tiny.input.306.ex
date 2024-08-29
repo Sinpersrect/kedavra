@@ -1,0 +1,1 @@
+if (( k = w )){ do { ; }while ( s + o );if ( e < h ){ { ; }; }else { do ; while ( q < w );; }}

@@ -1,0 +1,1 @@
+do  p = w + w +( g < r )- b <02;while ( h = g = l = w = z = r = e );

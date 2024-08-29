@@ -1,0 +1,1 @@
+if ( z = a = l = o = b < u )while (6)do do ; while ( d = o = s = k < f );while ( g = i < f );else ; 

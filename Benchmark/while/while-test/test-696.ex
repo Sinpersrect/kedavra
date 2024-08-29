@@ -1,0 +1,1 @@
+skip ; while n == L do L = (n+L) ; if ~n == (n+(n+(n+n))) then if (L+(n+L)) == n then skip else L = (n+L) ; skip ; L = n else skip

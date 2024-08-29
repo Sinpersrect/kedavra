@@ -1,0 +1,1 @@
+while (( z < q )< q )if ( c = i - w +( l ))if ( p )while ( y + k < v )if ( m = e < t ); else while ( o < l )while ( e )do while ( t < h ) v ;while ( r );

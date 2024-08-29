@@ -1,0 +1,1 @@
+if ( g = e )if ( n = o = f < t + h )do if ( m = c = y )if ( l ){ ; ; ; }while ( t = w - v );else ; 

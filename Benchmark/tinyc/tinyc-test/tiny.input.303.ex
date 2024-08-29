@@ -1,0 +1,1 @@
+do while ( n +( c < z )+ c < p +9)do if ( s = g )if ( e = y = v < z ) h = l ;else  k + a < m ;while ( w = d = u );while ( s - j +0-5-( s < r ));

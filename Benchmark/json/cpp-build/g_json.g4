@@ -1,0 +1,11 @@
+grammar g_json;
+start: value EOF;
+value: object | array | STRING | NUMBER | 'true' | 'false' | 'null';
+array: '['  ']' | '['  list  ']';
+list: value | list  ','  value;
+object: '{'  '}' | '{' objlist '}';
+objtuple:  STRING  ':'  value;
+objlist: objtuple | objlist ',' objtuple;
+NUMBER: ('0' | ('-')?  '1'..'9' ('0'..'9')*) ('.' ('0'..'9')+)?;
+STRING: QUOTE ('a'..'z' | 'A'..'Z' | '0'..'9')+ QUOTE;
+QUOTE: '\u0022';

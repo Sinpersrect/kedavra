@@ -1,0 +1,1 @@
+while ( p = j ){ { { if ( g < n ); else ; ; } o < r ;}{ do ; while ( c < r );}}

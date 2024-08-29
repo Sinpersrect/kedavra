@@ -1,0 +1,1 @@
+if (L+n) == n then L = L else L = n

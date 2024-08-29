@@ -1,0 +1,1 @@
+if ( o = k = y = o )if ( e <4+27) b + g ;else while ( j = e = e - r ); 

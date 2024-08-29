@@ -1,0 +1,1 @@
+do while (( j )+( m < x )< d + p -( h )+( g < t )){ while ( t ){ if ( v < y ); ; ; }}while ( a = m =( y ));

@@ -1,0 +1,1 @@
+while true & true do L = ((((n+L)+((L+L)+(L+n)))+L)+n)

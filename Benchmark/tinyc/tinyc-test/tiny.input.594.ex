@@ -1,0 +1,1 @@
+if ( p - w +65-9)if ( k = i + g + h < c + l +( s < k ))if ( r = s )do do ; while ( v = x = e );while ( f = p );else if ( y = t = e + o ) l = x - u +( p )<( d < y );else {  x ;}

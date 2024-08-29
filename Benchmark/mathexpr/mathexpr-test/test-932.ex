@@ -1,0 +1,1 @@
+(sinh(pi) * -0.761 + -0.708924 + ((mynf) * degrees(f, sinh(-2))) / ldexp(ldexp(0, pi) / 0) + -5.051 / -101607864.5)

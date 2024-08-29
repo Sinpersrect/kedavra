@@ -1,0 +1,1 @@
+if false then while ~(L+n) == n & ~(L+n) == (L+L) & ~true & true & ~true & (L+(((n+L)+n)+n)) == L do L = (((n+n)+(L+L))+n) else L = n

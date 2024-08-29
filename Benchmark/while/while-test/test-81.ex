@@ -1,0 +1,1 @@
+skip ; while true do skip

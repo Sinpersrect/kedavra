@@ -1,0 +1,1 @@
+Forall(?n) .u(.MQH(#C), ?U) = #F

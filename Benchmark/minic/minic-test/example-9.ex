@@ -1,0 +1,1 @@
+void a ( char a ) { while ( a = a = 0 ) { int a , a ; } }

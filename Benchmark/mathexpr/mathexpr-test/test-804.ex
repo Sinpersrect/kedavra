@@ -1,0 +1,1 @@
+y_n * z * -6 / fabs(log(atan2(phi) + (pi) + 0)) - (e) * 862686.2 / sinh(476.35 * hypot(pi) - e, cl) + 0.925 * 3982 * -0.2655

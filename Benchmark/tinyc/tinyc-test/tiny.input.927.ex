@@ -1,0 +1,1 @@
+if ( t -69<( y )+ g ) g = h =5;else if ( b = o = r ); else ; 

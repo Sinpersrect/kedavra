@@ -1,0 +1,1 @@
+while ( t -00-( a < r ))if ( b - s + d ){ { while ( h < c )if ( l ); else ; }if ( n = b )if ( f )if ( y < j ); else ; else  t = d < q ;{ ; ; }}else if ( b = x = v ) r - h - n < n + w ;

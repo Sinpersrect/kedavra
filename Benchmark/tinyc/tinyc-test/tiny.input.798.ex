@@ -1,0 +1,1 @@
+while (( g )-( d = h ))if ( u = p = c = r = l = p < k )while ( a = j = h < z )if ( w - n )if ( a < r ); else while ( g = f = d ){ ; }

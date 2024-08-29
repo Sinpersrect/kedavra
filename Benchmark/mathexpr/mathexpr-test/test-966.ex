@@ -1,0 +1,1 @@
+-111.0 / hypot(-2.8, dn_9i) + frexp(-96.2) * atan2(-1104.6571 - ((floor(e, phi)) + exp(pi) + abs(phi) - 0) * (6) + -0.6 - e, 4) + pi / cos(phi) * (al - modf(0) / pi / phi * phi) + 99 + (812.1) - 0 - e + -4.3092 + (o) - ((phi) - e) * u

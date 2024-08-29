@@ -1,0 +1,1 @@
+do { ;  w + s ;{ if ( o ); ; ; }}while ( l = e = d - g +( a )< t +( h < r ));

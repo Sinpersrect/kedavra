@@ -1,0 +1,1 @@
+Exists(?zK2Ue) _DQ(?m) ^ !Exists(?I) Forall(?S) _8(.o3(.i(#c))) ^ Exists(?dp9) Forall(?0) Forall(?A) !_1(#q) \/ ?2 = #H ^ _Yb6(#wO) ^ .h(#56, ?4, #T, .H(?R, ?A), .8(?P, ?O)) = ?9 -> Forall(?n5q6) !!!_o7(.h(.1(?o)), ?R) <-> .X(#1) = .8(.P(?i, #9)) ^ Exists(?O7I) !?I = .4(?V) ^ _3(#1, ?c) <-> !?5 = #Z ^ ?Y = ?R \/ Exists(?c) Exists(?W) _s(.9(?n), #A, #U) <-> Exists(?W) !_X(?J)

@@ -1,0 +1,1 @@
+!Forall(?krmb) Forall(?J) Exists(?a) _l5uA(#o) \/ !!Forall(?73) _4(#N, #C) -> !_c3s(?7s, .h(.3(#5, ?O), #q, ?T)) \/ Exists(?T6) !!Exists(?5) _9(?9) \/ #H = #B <-> #C = ?K -> Exists(?9) ?9 = #s

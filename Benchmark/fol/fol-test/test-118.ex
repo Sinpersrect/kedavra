@@ -1,0 +1,1 @@
+!Forall(?kP) #R = .W(#Q) <-> Forall(?d) !_1(#i) ^ _9(?F) \/ Exists(?7) ?y = ?z

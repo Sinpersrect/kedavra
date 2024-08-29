@@ -1,0 +1,1 @@
+(o - phi * -5 * z_m - phi) / atan2(phi) - (phi)

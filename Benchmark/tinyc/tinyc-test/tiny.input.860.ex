@@ -1,0 +1,1 @@
+do if (0+74) f =1;else ; while ( i - t < f + w -0-46-( t = j < t ));

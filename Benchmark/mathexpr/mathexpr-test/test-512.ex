@@ -1,0 +1,1 @@
+8.0 - e / exp((11.68), 22.65) / acos(hypot(2) + -5, -0.7) * (e) + (-1) - (ll * tan(pi) - e) + 6 - rmkqipj

@@ -1,0 +1,1 @@
+!.t2(#V, ?T, #F, #V) = #e \/ Forall(?kEK) ?r = ?v

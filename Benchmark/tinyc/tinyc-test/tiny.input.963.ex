@@ -1,0 +1,1 @@
+while ( h = v + j +( v < l )-( i < n )){  b = m ;}

@@ -1,0 +1,1 @@
+ki_c - -0.169 - phi + (0.440) * pi - floor(0, z__e + -0.4 * pi, 58.9 + -30.6) + (-51) / cosh(phi * phi, 97.2, phi, phi) / pi + phi - 2.784 * p1zu - pi / pi * g - 8.4

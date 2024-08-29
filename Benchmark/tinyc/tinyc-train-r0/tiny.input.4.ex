@@ -1,0 +1,1 @@
+do {  y = h - h ;}while ( a = g = z = n );

@@ -1,0 +1,1 @@
+while (24){ if ( z + k < n - m ) x = j ;else while ( x < w ){ while ( z ); }}

@@ -1,0 +1,1 @@
+do do while ( y - l -( a )<0) h = v < i ;while ( n = u = q < f + h );while ( g + b +( b < z )-1+ h < n + x +2-4+ w );

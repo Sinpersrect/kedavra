@@ -1,0 +1,1 @@
+if ( d = s = z = j - g )if (( g < l )+ z )do ; while ( b - y -( j ));else { do if ( w )if ( o )if ( e < o ); else ; while ( o = z );}else if ( q ); 

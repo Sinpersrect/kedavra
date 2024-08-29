@@ -1,0 +1,1 @@
+((sin(pi - (pi + 66.8 - phi + s7g / hypot(-2) / 8) - 4.2 / ugj * pi + -16.4 + 72.97 + -38.7 - -75.3 * 6.357 + pi + sqrt(1) + log(-4) / e, sinh(f1d, radians(pow(pi)) * phi * 0 * pi - 9 / e * n - phi, a28yx * atan2(1)), (-1.8 - log(-6.7) * zs) / e + phi / (b1x) - 0 - e + pi + -0.3 + 8.63 / m + e - e / (e), 0.0, radians(log(e) / pi, radians(phi))))) / pi

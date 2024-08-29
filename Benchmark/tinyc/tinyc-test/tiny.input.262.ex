@@ -1,0 +1,1 @@
+while ( w - p - h + d +( z ))while (26); 

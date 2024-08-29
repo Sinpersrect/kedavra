@@ -1,0 +1,1 @@
+Exists(?E) Forall(?G) .q(?W) = ?s \/ !Forall(?5) !_DMJ(#3, #j, .O(#w, ?z)) ^ Forall(?D9z) _5(.A(#V), #5) -> _8(.uzo2i(?iCy2, .7(.1(?Z, ?M)), .4A(#l, ?9), #K))

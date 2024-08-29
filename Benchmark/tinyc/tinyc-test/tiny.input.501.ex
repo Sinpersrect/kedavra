@@ -1,0 +1,1 @@
+while (1- w < s + u +5-( h )-( r < c ))if ( q = w + r ){ ; if ( l = a )if ( f < w )do ; while ( m );else if ( x < o ); }

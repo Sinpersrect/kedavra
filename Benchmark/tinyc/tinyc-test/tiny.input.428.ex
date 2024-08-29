@@ -1,0 +1,1 @@
+do do if ( w + e -( e < m )){ if ( h < q ){ ; ; }else { ; }; }else if ( a + x )while ( c < j )while ( x ) t ;while ( g = m + y +4<( y < t ));while ( w = y - r -4-( y < x )<( q )+ s );

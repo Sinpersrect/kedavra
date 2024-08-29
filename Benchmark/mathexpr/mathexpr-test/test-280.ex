@@ -1,0 +1,1 @@
+cos(s8b + pi, exp(0))

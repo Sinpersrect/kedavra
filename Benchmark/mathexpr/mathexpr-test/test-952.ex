@@ -1,0 +1,1 @@
+jru + (sqrt(cos(pi) - 4.3 / asin(pi + 0) + pi / ceil(5) - e - tanh(5) + d * -7.4)) * 1.0559 / (9.51) - x * -3.76 * phi * phi * zqp / modf(5) + e + radians((f) + (en)) - (-7907.6485) * 4 + 0 * c9o

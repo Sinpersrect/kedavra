@@ -1,0 +1,1 @@
+gopher://G-T/%af/:%BD

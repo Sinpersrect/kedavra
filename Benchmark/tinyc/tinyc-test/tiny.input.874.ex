@@ -1,0 +1,1 @@
+do ; while ( m = l = e = k - l < s );

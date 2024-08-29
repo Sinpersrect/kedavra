@@ -1,0 +1,1 @@
+void a ( char a , char a ) { do while ( a = a = a + a ( a = a = 0 ) + ( a = a < 0 + a ) ) { } while ( a = 0 < a ) ; }

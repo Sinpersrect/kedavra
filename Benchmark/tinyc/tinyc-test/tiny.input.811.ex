@@ -1,0 +1,1 @@
+while ( k = p = a = e = f < t )if ( z = m = o + t )while ( q - y -( v < r )< g -6)do if ( b = q = b ){ if ( x ); else ; ; ; }while ( z + q );else  n ;

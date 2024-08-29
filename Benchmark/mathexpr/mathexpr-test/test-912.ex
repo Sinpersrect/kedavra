@@ -1,0 +1,1 @@
+o__0q - 179992.4 + pi * (whzovxkm + 97) + e * 0 + wz_o + phi - phi / 8.0 + g * 51.8 * -5

@@ -1,0 +1,1 @@
+c Izj repeat 8 {fill {b0 } r4 fill {c Nmi Yh } }

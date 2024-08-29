@@ -1,0 +1,1 @@
+hypot(r5s - 0 / -3.25 / e + e + phi * -0.7, (sinh(0 / 0)) - c2g * e * e - atan(pi), (pi * (fabs(pi)))) + osq / e

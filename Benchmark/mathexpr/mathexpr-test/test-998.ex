@@ -1,0 +1,1 @@
+cosh(pi / 9 * gyyr, rj) * fij98k

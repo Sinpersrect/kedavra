@@ -1,0 +1,1 @@
+!!!!_n(.aR1(#5C), ?7, #P, .k(#Z), .F(.N(?h, ?3), ?0, #g), .n(?6), #Zc) ^ .ci56(.d(?T0, .B(?1)), ?UC) = #7yDH \/ !!_gf(?n9) ^ Forall(?69) .1S(.2(.3(#z))) = #m9 \/ !!Exists(?ah) Forall(?n4K) .A(.a(?9)) = #s ^ _2P(#B, .j(?P)) <-> !!!Exists(?kd) !Exists(?6) #R = #0 -> !_B(#h) \/ #K = ?y -> _Y(#FG, #8) -> ?4Xrf = #nM

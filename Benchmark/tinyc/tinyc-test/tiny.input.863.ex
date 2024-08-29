@@ -1,0 +1,1 @@
+{ do ; while ( i = m < m - t );if ( g = o = d < r )while ( s < k ){ do ; while ( o );; }; }

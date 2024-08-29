@@ -1,0 +1,1 @@
+{ while ( e -( x < x )<1) x = s - e < i ;do ; while ( h - q < r + h );}

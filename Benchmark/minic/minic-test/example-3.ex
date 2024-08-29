@@ -1,0 +1,1 @@
+void a ( bool a , int a , char a , bool a , bool a ) { 0 ; }

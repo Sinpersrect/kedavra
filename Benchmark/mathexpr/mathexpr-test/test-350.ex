@@ -1,0 +1,1 @@
+(phi - ceil(e) - floor(pi) + -7.085 - zmy - 5 / pi) * 0 + tan(1.899 / (v), pi * e + -4)

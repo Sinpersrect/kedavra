@@ -1,0 +1,1 @@
+ceil((cosh(5)) - phi, -3) / e

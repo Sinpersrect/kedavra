@@ -1,0 +1,1 @@
+exp(phi, tanh(n, 0.0) * -0.9 / acos(-9) - (0) * e / (8.4) * yzz - -5, (48) + -0.84 - phi / w + phi, -1034 * cos(phi) + -9)

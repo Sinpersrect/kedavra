@@ -1,0 +1,1 @@
+degrees((log10(genm)))

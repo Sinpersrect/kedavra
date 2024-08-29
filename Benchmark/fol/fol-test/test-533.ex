@@ -1,0 +1,1 @@
+Forall(?B) Forall(?df06) Exists(?3) _v(.P(?W), .m1(.19(#R, .m(?A), #e)))

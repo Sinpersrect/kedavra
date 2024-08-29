@@ -1,0 +1,1 @@
+_g(?B, .7(.H(.Ib87(?e, .0R(?jX), ?0E9C, #w, .M(.xu(?L7, .j(.g(.m(?T))), ?Gb))), ?WV)), ?1) ^ !Exists(?P9) !_X(#6, #eT, .5N(?aC, ?ZkK2w)) \/ Forall(?A) _8(?1, #i3) -> Forall(?g) Exists(?W) _u(.6(.Z(.90(.a(?5, #1, #5), .P(#n))), ?d)) ^ Forall(?gp) !_e(#k1) -> Exists(?T1C756g) _3(.OlXJr(?Mr), .2T(?2, #3), .ebk(.w(.SDCU(?w, .a9(?E)))), #R3)

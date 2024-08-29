@@ -1,0 +1,1 @@
+if (L+n) == ((L+L)+((L+n)+L)) then L = L else while true do while n == (L+((n+((n+((n+(L+((n+n)+n)))+L))+(L+n)))+L)) do L = ((L+(n+n))+L)

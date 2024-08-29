@@ -1,0 +1,1 @@
+void a ( int a ) { 0 < a ; }

@@ -1,0 +1,1 @@
+!!#p = ?I \/ Forall(?U) _s(#o) <-> !?x = #F ^ Exists(?3K) !_u(?c) ^ !_3(?2) ^ Exists(?1M8) !_E(?Y, #q) -> ?g = ?u -> Exists(?j) _j(?v, ?0)

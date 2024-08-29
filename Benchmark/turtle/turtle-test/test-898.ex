@@ -1,0 +1,1 @@
+fill {c Hm Fy repeat 8 {l0 } } repeat 6 {repeat 8 {fill {fill {l5 l2 } } repeat 3 {f8 fill {r1 } } } } repeat 9 {repeat 1 {c Lq Vira l7 c Rad } }

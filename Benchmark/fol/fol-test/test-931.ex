@@ -1,0 +1,1 @@
+Forall(?Q) .Ux2N(#7) = ?cm

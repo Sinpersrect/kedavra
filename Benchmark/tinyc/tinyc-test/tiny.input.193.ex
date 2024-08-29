@@ -1,0 +1,1 @@
+while ( z - w -6-( g = y )< h - c +2- f +( o = v )){ if ( k + w < s + q ); { if ( k < b )if ( f ); else { ; }if ( u ); }}

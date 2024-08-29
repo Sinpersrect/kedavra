@@ -1,0 +1,1 @@
+while ( j = g - h -8+( n < c )< y -8- b )while ( c = h - f +5)do do if ( p )do if ( j < x ) r ;else  p ;while ( e );while ( e - m < n );while ( q = c = m < g );

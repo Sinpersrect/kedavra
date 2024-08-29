@@ -1,0 +1,1 @@
+while (0-0+ d < t ){ { { if ( y < v ); ; }if ( a < d )do ; while ( g < m );}}

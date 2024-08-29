@@ -1,0 +1,1 @@
+if ( n = x = y = w < g + z )if ( r =9< w -( a )){  q + g < u - l ;}else while ( m = s = b = q = i < t ) z -9<( w < f );

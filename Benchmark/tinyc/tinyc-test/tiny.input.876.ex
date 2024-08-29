@@ -1,0 +1,1 @@
+{ do if ( s = k = o = b < q ){ do while ( f ); while ( x );do ; while ( b );}else  g ;while ( r = u < u + g );}

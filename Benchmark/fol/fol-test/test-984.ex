@@ -1,0 +1,1 @@
+_O(#4) \/ ?Ig0 = ?r ^ !_3r8D(#57CF) <-> !Exists(?9) ?o = .c24xn(?9B) ^ !?55wZ = ?2 \/ !_Z(.9G(.n(?Y7))) <-> !!Forall(?6P6) _R(.s(#U32, #QWVp)) <-> Exists(?e) !_WSO6(?6E, .A(#4)) \/ ?M = .m(.v3u(?eN81), #b, ?lL3Q)

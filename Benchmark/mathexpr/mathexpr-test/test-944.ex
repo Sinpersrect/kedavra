@@ -1,0 +1,1 @@
+pi - (1 + wge - phi + asin((i) - phi, 2.1, 4.5, 6) + pi / (-1.87 - 1)) - -5 / ceil(tanh(10.333 / 0 - e + phi - 8, -37 + 7.5 - pi) / wcyd_a - e) / e * ogtovut5ab0v - u_x - 5572.54 + pi * pi

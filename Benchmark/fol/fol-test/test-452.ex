@@ -1,0 +1,1 @@
+!Forall(?F) Exists(?AR) _jFy(.M(?4), #0, .Pk(#N6))

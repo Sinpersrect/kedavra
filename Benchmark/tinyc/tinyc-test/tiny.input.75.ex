@@ -1,0 +1,1 @@
+do do while ( f = j + c < k ) k = q < y ;while ( u <0);while ( n -7);

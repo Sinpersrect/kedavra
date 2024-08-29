@@ -1,0 +1,1 @@
+!Forall(?K) _xU(.V(#0t, .X(?ucw)))

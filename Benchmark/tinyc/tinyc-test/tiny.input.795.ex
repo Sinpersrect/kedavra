@@ -1,0 +1,1 @@
+{ if ( d -1<( j < c ))while ( p < k )if ( n = f ) h < p ;else while ( n < b )if ( x < x ); else  c - s +( q < c )< e - m + n ;do while ( t ){  j ;}while ( r = t = g );; if ( x = p ){ ; ; }else ; do do ; while ( p );while ( c < z );}

@@ -1,0 +1,1 @@
+(0 / ceil((pi / hypot(-1)) * (17.3) - sqrt(5), 4) + pi / t + acos(pi) * pi - s4p + okxh * -2.8 - pi + -7)

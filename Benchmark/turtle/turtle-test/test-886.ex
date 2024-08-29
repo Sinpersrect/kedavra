@@ -1,0 +1,1 @@
+repeat 4 {repeat 9 {c Er } b3 f3 fill {fill {repeat 2 {f1 } } } l6 c Md Ar c Dsr Rgon } c Bw Zoho c Hz c Vh Ao

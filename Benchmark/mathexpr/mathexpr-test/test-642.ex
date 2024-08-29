@@ -1,0 +1,1 @@
+(asin(4.2526 - (0), sqrt(ceil(pi) * 0, frexp(phi)))) / ceil(5 - -0.10 / 0.8 * phi * fby) / phi * sinh(pi) - (3 * 5215.5 / fwg * pi * 2 / 0 * 68.1 - e)

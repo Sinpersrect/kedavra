@@ -1,0 +1,1 @@
+fill {c Lk Tn c Wyr Bro c Hcb Fkk c Rywl c Ddh r3 repeat 9 {c Wkbfn repeat 0 {c Vv Oy } } } repeat 1 {repeat 6 {c Qodh Uc r2 } fill {c Kq Sat } } f6 repeat 6 {c Ymu }

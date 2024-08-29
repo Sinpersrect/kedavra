@@ -1,0 +1,1 @@
+{ while ( a = a = t = y = c )if ( g < g ); else { if ( k < i )if ( r ); }; }

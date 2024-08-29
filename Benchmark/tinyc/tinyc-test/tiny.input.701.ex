@@ -1,0 +1,1 @@
+if (0+9- a < l -( e < o ))if (( m < t ))if (5)while ( j = l = p < h )do while ( x = e < o )if ( i )if ( f < e ); else ; while ( h < g );else ( o )< d - t - z ;else ( z )- n ;

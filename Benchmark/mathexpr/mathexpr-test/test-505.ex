@@ -1,0 +1,1 @@
+radians(pow((ldexp(e, 7) + 5 * 0)), phi + tanh(tanh(phi), -8), -51 + pi * phi / abs(4) * pi)

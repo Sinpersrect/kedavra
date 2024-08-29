@@ -1,0 +1,1 @@
+Exists(?5) Forall(?3wB) !!Forall(?9d6b7) !_G(?F1, ?a, ?P, #1, .K(#x, ?K)) -> Exists(?W5g) !!_3(#h) <-> _R(.J(#k)) <-> _9(#j, #R) <-> _A(.HM(#3)) ^ _Q4(#ie, #6K)

@@ -1,0 +1,1 @@
+while ( d = n - t -( j < d )-( r < d )< x - e +6-( n ))if ( u +( i < j )+0)if ( q = j + i )while ( c = j )if ( w < y )while ( b = o )do  t ;while ( b < n );else { if ( r = p ); }else do if ( y ){ while ( x < e )if ( m < q ); else ; ; ; ; }while ( b - v + z < q - f +9);

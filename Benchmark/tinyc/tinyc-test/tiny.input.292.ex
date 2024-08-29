@@ -1,0 +1,1 @@
+while ( r = y = d = t = n = f = m < v ); 

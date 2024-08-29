@@ -1,0 +1,1 @@
+if (5)if (( e < l )< g - r +6+60)do ; while ( b = a - t < l );else  l = u = k = d - k ;

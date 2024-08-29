@@ -1,0 +1,1 @@
+if ~n == n then while true do L = (n+(n+n)) else skip ; if false & true then L = L else skip

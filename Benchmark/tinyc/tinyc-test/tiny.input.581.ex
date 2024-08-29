@@ -1,0 +1,1 @@
+do if ( t = r + b )if ( x = i - n < r ); else while ( d = s + z < u - p ){ if ( u < g ); if ( b < e )if ( m < b ); else ; }while ( w );

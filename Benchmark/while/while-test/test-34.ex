@@ -1,0 +1,1 @@
+if true then while false do while true & false do skip else while L == n & true do L = (L+n) ; L = (L+(n+n))

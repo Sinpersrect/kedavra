@@ -1,0 +1,1 @@
+while ( b = u = v = n < i + q )do  u = a + s -8;while ( u =( r )< b -( z < n ));

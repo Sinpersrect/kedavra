@@ -1,0 +1,1 @@
+radians(pi + phi / ((5.3 * hypot(-68.2, exp(0)) - sinh(0) / -11.0 / pi + tanh(0.1) * pi * 3)), -1 - 0.18)

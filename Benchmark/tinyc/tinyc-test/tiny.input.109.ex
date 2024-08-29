@@ -1,0 +1,1 @@
+do  w = i = c = y + i ;while (92< j -7+ t -( f = t ));

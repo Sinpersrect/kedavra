@@ -1,0 +1,1 @@
+repeat 7 {f4 f4 } c Tnvrrbr c Yqjs c Ig Jj

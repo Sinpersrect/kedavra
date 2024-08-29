@@ -1,0 +1,1 @@
+0 - -40 + pi + 0 + (acos(sfk + -7 - hdi * atan2(0) * phi + i + (c) * -7 * pi, phi)) / phi * -7700968.86 * h

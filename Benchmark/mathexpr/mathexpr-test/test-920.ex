@@ -1,0 +1,1 @@
+(-6 - (84 - -5) - degrees(-6, -941 + floor(-0.4)) / (log(xt2a - i_pw) - degrees(7) / -0.4) * h * degrees(56 + 0) - slw_k - 0.2 - (wp) - -1 * 521 - j_d - a_d - pi / (87.3) * -6 - pi / phi - log((tanh(759.4, exp(pi))) - phi, e, -7445.2 / phi - hypot(e) / phi / 0) / sin(-25565.5 / ja / pi, phi - x_o - pi / (-9) * -6) / -86740)

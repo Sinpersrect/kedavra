@@ -1,0 +1,1 @@
+{ do if ( j = k = a = k < i ){ if ( k < z )if ( k < e ); else ; else  l < j ;}else ; while ( b + h -( f < w ));{  k = o = t ;if ( b )while ( z < p ); else if ( x < f ); }; while ( h )if ( g < g )if ( z ); else while ( o ); ; { ; }}

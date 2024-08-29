@@ -1,0 +1,1 @@
+Forall(?9) Exists(?G9) Forall(?V) _k(?F) <-> Forall(?pP) .h(#8, #I) = ?7 \/ !!Forall(?w) ?L = #v ^ !_u(?5) \/ Exists(?6) _d(#0, #G)

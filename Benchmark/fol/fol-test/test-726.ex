@@ -1,0 +1,1 @@
+!Forall(?q) !Forall(?JB) !_kAlp(.g(.s5h1uPj(?nI, .Q(.6(.5a(#0, #6, #Z, ?3)), .I(?B), ?R, #zx), #trCY)), ?9) -> Exists(?l) _9P(.r476Tb9l3(#VT), .2Q(.QLf(?a05), .X(.g(#Hx3)), ?EI8))

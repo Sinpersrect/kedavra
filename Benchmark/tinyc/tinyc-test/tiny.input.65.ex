@@ -1,0 +1,1 @@
+do do ; while ( v = w = o = y );while (( a )-( g )- d <7+( k )-14);

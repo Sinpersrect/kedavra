@@ -1,0 +1,1 @@
+Forall(?m) Exists(?0A3oU8Z) !_gD1(.0Fxc(.0g(.B(#5))), ?uo)

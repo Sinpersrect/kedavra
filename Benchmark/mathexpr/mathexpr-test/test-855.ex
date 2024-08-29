@@ -1,0 +1,1 @@
+fne + -23 / e - yq5w / scr + phi * exp(-6, phi, phi) * (phi) / -3 + dub - 79.3 + 867 * gl4p + 0 / (log(degrees(e))) * so_v / atan2(e) + -4 + -10.5 - -3 / -7

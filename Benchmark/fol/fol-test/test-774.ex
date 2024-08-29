@@ -1,0 +1,1 @@
+!_5(#Z) <-> Forall(?u) Exists(?qU) Forall(?js) Exists(?n) !Forall(?F) _O(.6O(.1(#2f, ?6, .q(?N, ?J), ?v))) \/ Exists(?27) _Q(.A4(.d(#9, #B)), ?1) \/ !?5 = .0(?R, ?X) -> !!!#1 = #2 \/ _g(?c, #G) \/ #gPC = #6d \/ _q(.51l6c(.B(.7(?w, ?r, .03fAn(.8(.M(.5(?dQ)), #T2z)), .P1(.I0H(.60(#HO5G, ?VL), ?7yFVw), .H484h(.66(.o9(.ek(#3, ?5, .b(#K)), #N))), .n(.b3U89(?89), ?E))))))

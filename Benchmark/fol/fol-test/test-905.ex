@@ -1,0 +1,1 @@
+!!Forall(?Z) !Exists(?pLf) !_F(.4Fq(?Q, .y(.ec1(#V1, ?0, #6, .e(#8, #C), #Q)), .mHbSv(.879(#7))), #9, ?S, ?KQu, .Gc(.x(?M)), #1p) ^ .k6(?b) = ?x

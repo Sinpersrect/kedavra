@@ -1,0 +1,1 @@
+!Forall(?J) Forall(?S) Forall(?A) #z = #t \/ _x(.6(#f, #i))

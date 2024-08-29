@@ -1,0 +1,18 @@
+start:n0
+n0: "void" "IDENT" "(" ")" "{" "}"
+  | n2 "IDENT" "(" ")" "{" "}"
+  | n2 n1 ";"
+  | "void" "IDENT" "(" "int" "IDENT" ")" "{" "}"
+n1: "IDENT"
+  | n1 "," n1
+n2: "char"
+  | "bool"
+  | "float"
+  | "int"
+
+n2: s "bool" s
+n0: s "void" s "IDENT" "(" ")" "{" "}"
+n0: s "void" s "IDENT" "(" "int" "IDENT" ")" "{" "}"
+n2: s "char" s
+n2: s "float" s
+n2: s "int" s

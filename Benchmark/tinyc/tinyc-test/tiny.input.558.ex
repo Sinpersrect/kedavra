@@ -1,0 +1,1 @@
+if ( q +0+80-( q = s < l )< d - e -( y )+ n -( g = t ))do ; while ( d = b );else ; 

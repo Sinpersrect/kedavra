@@ -1,0 +1,1 @@
+do ; while ( k + m + w + p -( e = d ));

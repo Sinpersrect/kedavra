@@ -1,0 +1,1 @@
+if n == n then while n == n do skip else skip ; L = L ; L = ((n+L)+L) ; skip

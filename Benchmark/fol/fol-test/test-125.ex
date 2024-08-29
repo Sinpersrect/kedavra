@@ -1,0 +1,1 @@
+Forall(?N) Exists(?Z8) !#k = ?Q ^ _z(#2, ?i) <-> #1 = ?j

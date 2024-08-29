@@ -1,0 +1,1 @@
+c Kaf He fill {repeat 8 {repeat 7 {c Kd Cw c Jv Bj c Svc } } c Ag }

@@ -1,0 +1,1 @@
+_jp2(.B(#x, #V, #f, #F)) -> Forall(?T) !Forall(?k) !?8 = ?8 \/ ?i = ?Z

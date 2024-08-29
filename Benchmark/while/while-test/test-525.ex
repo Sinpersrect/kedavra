@@ -1,0 +1,1 @@
+skip ; while (L+L) == L do L = L

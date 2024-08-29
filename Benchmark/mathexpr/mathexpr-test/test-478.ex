@@ -1,0 +1,1 @@
+tan(cosh((h5_k)), y1v_t + 0.534 / 4.4 + d3t * e, phi / e - e * -4)

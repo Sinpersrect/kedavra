@@ -1,0 +1,1 @@
+Forall(?R6s) Forall(?C6O) !!_A(.oZm6iL(.K(#a1t7n))) \/ Exists(?Y) _5m(#a, .7kFR(.17B(.s(?4)))) \/ _8(.PJwgC2U(#2))

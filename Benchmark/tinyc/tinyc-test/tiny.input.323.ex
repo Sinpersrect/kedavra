@@ -1,0 +1,1 @@
+while (7+ k )while ( j -( r < g )- j <2-82); 

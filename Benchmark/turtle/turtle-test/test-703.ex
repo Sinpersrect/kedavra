@@ -1,0 +1,1 @@
+repeat 0 {repeat 7 {c Tai } c Lsb }

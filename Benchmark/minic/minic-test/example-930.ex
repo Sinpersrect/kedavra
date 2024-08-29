@@ -1,0 +1,1 @@
+void a ( int a , float a ) { a ( a ( a < a ) ) < 0 - a - a - a ; }

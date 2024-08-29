@@ -1,0 +1,1 @@
+if ( t = g = q + d +4< p -( t ))if ( g = c = d = i < u ); 

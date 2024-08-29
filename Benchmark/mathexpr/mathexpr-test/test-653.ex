@@ -1,0 +1,1 @@
+-0.4961 - e - 3 - phi * ic0t - 0.9 - -1 + acos(phi / 2, (pi), 3, 0) + pi * phi

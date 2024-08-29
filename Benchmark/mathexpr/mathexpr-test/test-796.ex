@@ -1,0 +1,1 @@
+radians(radians(0.1, 0)) * pi * -8.07 - 9 + yi___1y7axc * nvy0a

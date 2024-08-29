@@ -1,0 +1,1 @@
+{ do ; while ( c = o = h < c ); q = e = x = n ; j = p = r ;if ( h = b < d ); }

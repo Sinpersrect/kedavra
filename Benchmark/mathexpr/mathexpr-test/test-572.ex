@@ -1,0 +1,1 @@
+ceil(pi / phi + phi + (3) + pi * ((0.4 / e) + 5.7 / -5) * degrees(1) / 1 / modf(pi) + e + -71 - pi)

@@ -1,0 +1,45 @@
+start:n0
+n0: n2 n1 ";"
+  | n3 "IDENT" n5 n7
+n1: n1 "," n1
+  | "IDENT"
+n2: "bool"
+  | "float"
+  | "int"
+  | "char"
+n3: "void"
+  | n2
+n4: n4 "IDENT" "," n4
+  | n2
+n5: "(" ")"
+  | "(" n4 "IDENT" ")"
+n6: n6 "-" n6
+  | n6 "+" n6
+  | "NUM"
+  | "IDENT"
+n7: "{" n10 "}"
+  | "{" "}"
+n8: n2 n1 ";"
+  | "if" "(" n9 ")" n10
+  | n11
+n9: n6 "<" n6
+  | "IDENT" "=" n9
+  | "IDENT"
+  | n6
+n10: n8
+  | n10 n10
+n11: "do" n11 "while" "(" "IDENT" ")" ";"
+  | n7
+  | "while" "(" n9 ")" n10
+  | "if" "(" n9 ")" n8 "else" n8
+  | n9 ";"
+  | ";"
+
+n11: "do" n11 "while" "(" s "IDENT" s ")" ";"
+n6: n6 "+" s n6 s
+n9: s n6 s "<" n6
+n9: s n6 s
+n6: s n6 s "-" n6
+n9: n6 "<" s n6 s
+n6: n6 "-" s n6 s
+n6: s n6 s "+" n6

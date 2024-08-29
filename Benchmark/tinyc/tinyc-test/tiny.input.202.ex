@@ -1,0 +1,1 @@
+do  w = d = t = p ;while ( e = t - i +4+ k );

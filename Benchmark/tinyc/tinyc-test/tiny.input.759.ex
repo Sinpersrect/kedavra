@@ -1,0 +1,1 @@
+while ( u = j = d = f = r < p )do ; while (( d )-2< h - r +( t < j )- b );

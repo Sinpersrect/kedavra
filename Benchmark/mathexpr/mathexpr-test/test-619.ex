@@ -1,0 +1,1 @@
+21 / cos(abs(((0)) - pi, 3) / (pi) / (c) / asin(pi), (b + g - 0) + 9.4 / 0 / e, 5.8 + pow(pi)) - (9.8 * tan(4, phi) / -87.7 + 1.5 / (0) / 3) - degrees(0) + 0 * phi * pi - -1 * (modf(3)) * 0 - y - -26830 * e - 0 * -0.1 + v * fabs(pi)

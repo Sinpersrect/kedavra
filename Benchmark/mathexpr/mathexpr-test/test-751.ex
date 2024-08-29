@@ -1,0 +1,1 @@
+y + 92.2 / exp(6.2) + g6p / zvevwdrp / q

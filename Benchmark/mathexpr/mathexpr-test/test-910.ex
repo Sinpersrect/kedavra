@@ -1,0 +1,1 @@
+sinh(-0.7, -1.51 / 0 + cosh(0 - 0 - log10(phi) * 9 / 84 + pi) * (log(phi + 0)) + sinh(atan2(-8), e) - b - 0.1 - cosh(abs(0) * phi, (4)) / -16.911, fd44_6t, -67.11) * -8.81740 * e * pi / 0 + 6.7 - 75 * e - pow(pi, pi, 3) * 0

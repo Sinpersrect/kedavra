@@ -1,0 +1,1 @@
+_H3g(?i) \/ !_s(.d(.J77(?tM))) -> Exists(?3tUOyZ) !Forall(?b) !!?k = #f \/ _5(?L) -> !_R(?X) <-> _9(#E) <-> !Forall(?Z) _0(.j(?Z, ?f), ?1) <-> !_pe(#I, #0, #c, .i(?S, ?o, ?3)) -> _6wwKS(#Jpi)

@@ -1,0 +1,1 @@
+!Forall(?1) .A5KI4(#oM, ?6W, .q(#2, #oxP3), .p(.6iCBLz(?nF0M), #4), ?WU) = #q ^ !!_X(#q) -> Exists(?Xy) Forall(?N) Exists(?3) _w6I(.btBmL6(#Iuj, #V, ?q, ?7, #K, .uCQ(#8C, .1(?l), .d(.v(?j), #1)), .o(#Y86, .j(#C, #M), .u(?g, .5(#2, #6)))))

@@ -1,0 +1,1 @@
+float a ( int a ) { do { } while ( a < a ) ; }

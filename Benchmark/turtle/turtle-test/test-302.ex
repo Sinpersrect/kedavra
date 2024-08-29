@@ -1,0 +1,1 @@
+repeat 3 {fill {b6 } } c Lt c Qf Ic

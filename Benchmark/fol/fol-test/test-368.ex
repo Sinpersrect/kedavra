@@ -1,0 +1,1 @@
+!_sCGJ(#M4JD) ^ !_0cP(?8A8) <-> Exists(?I) Forall(?m) Exists(?503) Forall(?C) !?s = ?Y <-> #C = #l ^ _e(#w) ^ Exists(?5) _WH(.R(.p(#F)), ?O, .F(#l)) -> _e5(.K1AGC(#w), .B4B(#SBD, ?0), #TE, ?R)

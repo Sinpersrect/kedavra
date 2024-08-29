@@ -1,0 +1,1 @@
+-48432.3 / phi / e * fjaeysu

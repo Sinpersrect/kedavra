@@ -1,0 +1,1 @@
+repeat 2 {repeat 4 {fill {r0 } } l0 fill {repeat 5 {l3 } c Ju } repeat 5 {b3 } c Wui Kucc fill {c Mpnj Jb l4 c Sexpj } fill {c Jo Kg } fill {c Hap } }

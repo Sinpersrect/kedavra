@@ -1,0 +1,1 @@
+void a ( int a , char a ) { if ( ( 0 ) ) if ( a = ( a = a ) < 0 ) char a , a ; else a = a ; }

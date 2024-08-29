@@ -1,0 +1,1 @@
+(-5.87033 - atan(jm * (atan(2)) - 2, -0.7 * -4.1 - e) / pi - log(pi) * (e) + c0o4t * (floor(0)) / phi * -5 / pi - e * e)

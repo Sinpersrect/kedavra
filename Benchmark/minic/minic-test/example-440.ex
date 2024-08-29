@@ -1,0 +1,1 @@
+void a ( int a ) { do 0 ; while ( 0 < a ( 0 < a - a ) ) ; }

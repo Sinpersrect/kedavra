@@ -1,0 +1,1 @@
+while true do if true & false then L = L else L = L ; while true do skip ; skip ; skip ; skip ; skip

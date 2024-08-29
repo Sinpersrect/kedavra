@@ -1,0 +1,1 @@
+while (7)if ( a = b -1){ ; if ( d )if ( i < j ){ ; }; }else do if ( q = y < i ); else do ; while ( d = a < k );while (5< l + b -( c ));

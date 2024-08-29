@@ -1,0 +1,1 @@
+fill {fill {f0 c Ht Sc r0 fill {l8 } } } r7 fill {f2 f3 repeat 7 {f5 } b8 repeat 9 {r5 l2 } fill {b4 f0 repeat 1 {r8 } } }

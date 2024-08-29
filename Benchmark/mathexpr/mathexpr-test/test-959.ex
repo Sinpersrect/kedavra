@@ -1,0 +1,1 @@
+pi * phi + cos(vnhits, (ti), frexp((pi) + pi))

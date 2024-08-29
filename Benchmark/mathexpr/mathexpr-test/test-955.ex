@@ -1,0 +1,1 @@
+(0) - -7948 * pi * -9.2 - gz * cos(pi) / phi / pow(-7, -2, 0) + r3p * exp(e) + pi + (log10(1)) / frexp((pi))

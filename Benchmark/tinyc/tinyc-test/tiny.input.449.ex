@@ -1,0 +1,1 @@
+if ( z -( d < l )+91)if ( l - u +( r < l )-59< t - r -( l )+69) s = w -0;else ; 

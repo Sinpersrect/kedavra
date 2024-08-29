@@ -1,0 +1,1 @@
+while n == (n+(n+((n+((L+n)+n))+n))) do L = n ; while false & ~~n == n & ~true do L = n

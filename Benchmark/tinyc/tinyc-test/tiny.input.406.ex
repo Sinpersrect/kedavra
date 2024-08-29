@@ -1,0 +1,1 @@
+while (( z )){ if ( g - l < w - x )while ( d < x )do while ( j )if ( e ); else ; while ( i = r < j );}

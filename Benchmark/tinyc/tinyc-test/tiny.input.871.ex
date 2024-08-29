@@ -1,0 +1,1 @@
+while ( q +( o )-25+( r = u ))do if ( g - l -7< m + m +9) s = o = p = i ;while (5+52<( f )- m );

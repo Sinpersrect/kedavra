@@ -1,0 +1,1 @@
+skip ; L = (((L+n)+L)+(L+L)) ; while ~L == n & false & n == (n+(n+(L+((L+L)+L)))) do L = n

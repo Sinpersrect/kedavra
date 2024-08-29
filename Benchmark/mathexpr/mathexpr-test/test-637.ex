@@ -1,0 +1,1 @@
+modf(radians(-19 * degrees(-5) + 0))

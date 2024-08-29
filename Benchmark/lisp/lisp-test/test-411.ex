@@ -1,0 +1,1 @@
+(s . (l h ((e x d) y (q . g) d) (((t s) . tqy) (g) pq)))

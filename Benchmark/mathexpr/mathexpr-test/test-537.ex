@@ -1,0 +1,1 @@
+degrees(pi - (a_7_e + z) + gm - phi / -6, 0.4845 * my + 0.76 * atan2(-8) + q * -5) / atan2(3.9)

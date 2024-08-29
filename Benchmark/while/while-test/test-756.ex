@@ -1,0 +1,1 @@
+while ~L == (n+L) & true & false do if ~~~~~n == (L+(L+L)) & true then while ((L+n)+L) == L do skip ; while true do while true do L = (n+n) ; while false & n == (L+n) do if ~true & false then if true then L = n else skip else skip else skip ; skip ; while ~true & false & true do while true & true do while true do skip

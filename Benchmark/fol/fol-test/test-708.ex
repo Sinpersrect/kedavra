@@ -1,0 +1,1 @@
+!!_6(?z, ?E) -> Exists(?ON88U) !Forall(?Lp) !!!Exists(?s7) _62(#s, .Nf(?s, .G(#q, ?E))) <-> _Q(.G(?kwZk, .t(.y2(.N(?8), ?1)))) -> Exists(?Q) _W(.M9(.Qb(.9UX(?S0, .w(.9(#t), ?J, ?g))), #L59), .Y(.i(?oa, .3(#v), .n(.J(?T))))) <-> _b2(#9p5) ^ !Forall(?9Z) !Forall(?mn) _h4b(#Hd) <-> _c(?TVc, ?aw, .97v(#a7)) -> _vm5e(?V)

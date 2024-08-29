@@ -1,0 +1,1 @@
+if ( e = c = l = l )while ( x = h - x +( x )< l + a )if ( j - r + f < j - a +( b ))while ( e - b < d - d )while ( d < j ){ if ( d < n ); ; }else ; 

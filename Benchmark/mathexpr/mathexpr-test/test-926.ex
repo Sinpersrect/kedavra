@@ -1,0 +1,1 @@
+cosh((-7) - (atan(tanh(pi - -29.9)) * modf(log(y1v)))) / (phi) / 9 * 0 + 0 - hypot(206.5, -3, -0.9) - vs5n - modf(pi) / phi - pi - phi * e

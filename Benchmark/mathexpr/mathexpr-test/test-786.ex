@@ -1,0 +1,1 @@
+e + d + exp(4.6) + (frexp(phi * 6.73 - sin(1) / phi, (tan((e), pi) - -78.0), (97 * radians(phi) * pi))) * pi * (0.5582 - ((b7u))) - 0.5 - -999 - phi * 34 - exp(p) + a + pi * (0.6 / phi) - 9.8 - e + -4.63 - tyd * x5v / -0.29 * sinh(e - pi) + y5a

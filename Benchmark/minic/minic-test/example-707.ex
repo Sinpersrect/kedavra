@@ -1,0 +1,1 @@
+char a ( bool a , float a ) { a ( a = a < a ) < a - a ; }

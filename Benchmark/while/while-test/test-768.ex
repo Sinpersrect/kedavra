@@ -1,0 +1,1 @@
+L = L ; while ~false & true do while true & false do while true & ~true & ~~true do skip ; L = n ; L = n

@@ -1,0 +1,1 @@
+Forall(?w) !!Exists(?4) ?2 = ?G -> _R(?3)

@@ -1,0 +1,1 @@
+!Forall(?fM3) Forall(?O) Forall(?K) _5(?e) -> _F(.d(?5x), .9S(?j), ?0)

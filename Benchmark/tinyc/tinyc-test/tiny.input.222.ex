@@ -1,0 +1,1 @@
+do ; while ( n -( g )-( h < g )<( k < b )-( n )-( s = t < k ));

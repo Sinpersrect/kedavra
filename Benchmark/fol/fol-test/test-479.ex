@@ -1,0 +1,1 @@
+!!?J = ?v2KT8 \/ Forall(?P) !Exists(?y) !_N(.6(#Z, ?S)) <-> #U = #t <-> !!Forall(?7) #X = ?i ^ .q(?T) = .J(.s(#A)) \/ .t(.h(?W), ?v, ?6, ?Y) = #P6 ^ Forall(?r) Forall(?46A) _J(#t2c, #HL)

@@ -1,0 +1,1 @@
+Forall(?u) !_V(#tWAs) <-> _8(#69c82, .R6Hc(.uR(?oN), #oD)) ^ .2(?fe) = ?3

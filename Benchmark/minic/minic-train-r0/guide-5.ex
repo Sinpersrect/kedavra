@@ -1,0 +1,1 @@
+char a ( int a , bool a ) { if ( 0 < 0 ) a = a < a ( 0 ) + ( a = a ( a < a ( a ) ) < 0 - ( a = ( 0 ) + 0 ) - 0 - 0 ) + 0 ; else if ( a ( a < 0 + a ( a ( a < ( 0 ) - a - ( 0 + ( a = a = 0 ) ) ) < 0 + 0 ) - 0 ) ) if ( a = 0 ) if ( 0 ) if ( 0 ) 0 ; else do while ( 0 ) if ( 0 ) ; else do do while ( 0 ) { } while ( 0 ) ; while ( 0 ) ; while ( 0 ) ; else while ( 0 ) { } }

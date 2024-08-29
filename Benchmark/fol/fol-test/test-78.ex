@@ -1,0 +1,1 @@
+!_v(#N) \/ _7(#j) -> !Forall(?m) _E(#G) ^ ?5 = #V -> Forall(?Cu) !?N = ?u \/ _w(?5) \/ _a(?l, ?l) <-> ?2 = #O \/ ?d = ?2 \/ Forall(?o) !Exists(?n) _w(#b) ^ Forall(?a) _o(#i)

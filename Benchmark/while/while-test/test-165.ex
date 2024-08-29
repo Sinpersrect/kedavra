@@ -1,0 +1,1 @@
+while n == L do skip ; skip ; skip ; L = (n+L) ; skip

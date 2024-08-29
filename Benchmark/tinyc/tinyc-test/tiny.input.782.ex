@@ -1,0 +1,1 @@
+if ( o = u -9+ t < w - e - q ){ if ( c + e ) k = i = p = n ;}

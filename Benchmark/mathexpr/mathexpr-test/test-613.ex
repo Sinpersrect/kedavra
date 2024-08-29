@@ -1,0 +1,1 @@
+phi / 17 / mtmfy + ((phi / -1)) * sin((phi), e, -8) + atan(-8) * pi + r_b - 0 * -0.00 - -5 - phi * (atan2(0)) / 7 + exp(o, 1, 0)

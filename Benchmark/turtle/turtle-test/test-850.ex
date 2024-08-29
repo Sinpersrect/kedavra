@@ -1,0 +1,1 @@
+repeat 6 {repeat 7 {l6 } c Hv c Xtx Ik repeat 3 {c Omm Nxjj l1 } } fill {c Mo l7 }

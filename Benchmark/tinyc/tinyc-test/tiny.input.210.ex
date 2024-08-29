@@ -1,0 +1,1 @@
+if ( d = g = q = l - h )if ( z = s = d + f )do while ( k < x - s ){ if ( f )do ; while ( n );else  d ;}while ( z - f +( m < o )<( n < w ));

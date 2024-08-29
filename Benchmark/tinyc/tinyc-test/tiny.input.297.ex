@@ -1,0 +1,1 @@
+while ( u = c -( j )+ s )if ( s ) h = f = l = e = a = p < e ;else if ( x +( e )< p - c -0) e - n -( t < s )< v - l - u ;

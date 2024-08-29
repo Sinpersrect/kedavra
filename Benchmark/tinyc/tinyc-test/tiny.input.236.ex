@@ -1,0 +1,1 @@
+while ( k = r + e -( l )- d <( v ))if (( y < s )<2- f ); else while ( k = y = u = y ){ if ( y = u )while ( i )while ( i < p ); }

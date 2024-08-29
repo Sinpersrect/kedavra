@@ -1,0 +1,1 @@
+while (4<( l = d ))while ( x + m - j -18< z + q - y ); 

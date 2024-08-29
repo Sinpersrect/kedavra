@@ -1,0 +1,1 @@
+if ( p = n - d -( x )+ l ){ if ( b - p )while ( p < x )if ( y < h ) u < d ;else while ( w < y ); do if ( g = b < j ){ ; ; }else if ( w )do ; while ( k );else while ( f < v ); while ( w );; do { ; }while ( d );}

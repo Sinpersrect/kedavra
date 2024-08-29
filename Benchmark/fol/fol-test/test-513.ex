@@ -1,0 +1,1 @@
+!!Exists(?65a) .n(#H, .I(.l(?R, ?0), #b)) = #9 -> !.n(?0K) = #2 <-> Exists(?G) Exists(?g) Exists(?j5x) Forall(?n) #1 = .x(?2, ?0) \/ Exists(?i9) .tRl(?3) = ?TH <-> Forall(?7) Forall(?QY) !!?0 = .m(#f, ?A) <-> _M(?z) <-> _I(.G(.6(?r, ?G)), ?Q, .b(#O, ?O))

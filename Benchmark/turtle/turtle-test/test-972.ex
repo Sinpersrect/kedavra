@@ -1,0 +1,1 @@
+repeat 8 {repeat 4 {fill {c Wo Lq fill {l7 l8 } r9 } } repeat 0 {c Cwi fill {c Gy } f4 repeat 3 {b8 repeat 4 {repeat 6 {b7 } } } } } repeat 6 {c Bfwh } repeat 9 {c Jn } fill {c Vt Xayw } fill {fill {f8 b0 c Ct So } repeat 0 {b9 repeat 5 {f5 } repeat 8 {b1 } } repeat 0 {l8 } repeat 4 {c Inv c Ky Do } } c Ko Afon c Nj Wu f3

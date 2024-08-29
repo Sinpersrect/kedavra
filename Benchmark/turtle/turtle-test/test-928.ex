@@ -1,0 +1,1 @@
+c Id fill {fill {c Znvsa } c Rw Dh b6 } c Kaw b7 fill {b8 } repeat 6 {fill {fill {b0 } } }

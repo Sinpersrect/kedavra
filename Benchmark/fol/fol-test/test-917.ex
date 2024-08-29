@@ -1,0 +1,1 @@
+Forall(?HY) !_Vu(#1, .cC6(?XB)) <-> Exists(?FJ) _QWdMGO9(#l, ?fE) -> _h(?q8) <-> Forall(?Y) !_fa(.bII8j(.d(?Bw, #M9), ?0437, ?U1bF)) \/ Forall(?v) !_F2j(#2z3)

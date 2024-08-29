@@ -1,0 +1,1 @@
+fill {c Yj repeat 6 {c Ayzdb Ayhygm } c Wz Bl repeat 4 {f7 c Ggy Yggo repeat 3 {r5 c Cw } c Emq c Xzj Emrjsu c Gsh } } fill {c Mvni } c Tqusu Gjbx fill {c Fjjtq Raz c Yoxt Fh } repeat 6 {f0 }

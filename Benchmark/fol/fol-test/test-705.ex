@@ -1,0 +1,1 @@
+!!Forall(?C) _9(.J(?bBdi)) <-> !!!.Zs(?o) = .Z4(#E, ?G) <-> !!Forall(?h45) Forall(?8q) ?A = .K8(.zN(.Ux(#s))) \/ ?N = #3 -> ?vY = #2tRl <-> !_r(.g(#Lu), .0(#D, #4N), #AXDqF, .s(#ZqE))

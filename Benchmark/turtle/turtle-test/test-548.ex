@@ -1,0 +1,1 @@
+c Gui c Wtvb Gl c Hxpesqv Yw r4 b4 repeat 7 {repeat 3 {l5 } } c Qfh fill {b8 } c Ov Kz l7 r8

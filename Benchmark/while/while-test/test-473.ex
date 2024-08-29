@@ -1,0 +1,1 @@
+L = n ; if false & true then skip else while L == n & L == L & false do L = ((L+(L+(((n+n)+n)+((L+n)+(n+L)))))+n)

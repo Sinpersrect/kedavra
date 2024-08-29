@@ -1,0 +1,1 @@
+repeat 6 {fill {b0 r8 l6 } c Cl Gk } c Zm Cb b7

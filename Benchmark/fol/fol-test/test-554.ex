@@ -1,0 +1,1 @@
+Exists(?C) !#9 = .D(.q(#7l), .5xj(.q(.0(.D(?3), #S), #e, .7(#M)), #a), #8Z) ^ Exists(?A) Forall(?ze) .l(.8U(.a(#a), ?W)) = .o(#o)

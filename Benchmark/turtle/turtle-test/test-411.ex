@@ -1,0 +1,1 @@
+repeat 6 {fill {fill {r4 } r7 c Bv } } fill {repeat 5 {fill {f0 } } l6 } repeat 4 {c Ytc c Auzf Hk } l2 fill {l6 fill {r5 } c Dm Xs } repeat 5 {c Jo Eo }

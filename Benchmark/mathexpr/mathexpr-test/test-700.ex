@@ -1,0 +1,1 @@
+(acos(o465q / c06k - hypot(642, phi - ((e)) - phi, (phi * e), pi - 0) - -6.6 - phi - atan(pi, 7) + (asin(phi, -9)) * e * pi * twh + 9)) - aorcmtj + 0.5 + (-0.78) * phi / (cosh(phi + phi / pow(phi, pi) + ceil(pi) / e, log10(3.7) - (0 + e) / phi + e, zd * -4 / -2, p) + givqw_z * floor(-5 - e, radians(e), 0) / qw_7q)

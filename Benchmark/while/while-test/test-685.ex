@@ -1,0 +1,1 @@
+while ~true do L = (((n+(n+(n+((n+((n+(((L+L)+n)+(L+n)))+(((L+L)+L)+n)))+L))))+n)+(L+L)) ; L = (n+L)

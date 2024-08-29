@@ -1,0 +1,1 @@
+c Xk fill {fill {fill {b4 } } } fill {b3 f9 c Nl fill {r0 } fill {l7 b4 } repeat 3 {repeat 5 {l7 } } } fill {l8 b2 c Rn fill {f3 } } repeat 6 {c Ag fill {b3 } } f5

@@ -1,0 +1,1 @@
+while ( j +0+11+( h = e )<49)if (1- m )if ( l + s -8)5< g +( o < a );else ; 

@@ -1,0 +1,1 @@
+{ do ; while ( t = e = q = s );}

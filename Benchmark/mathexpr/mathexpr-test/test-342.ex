@@ -1,0 +1,1 @@
+(q * e) - (uwbfi_k - e / (phi) / phi)

@@ -1,0 +1,1 @@
+phi - a / e / degrees(3553.424, cos + d - phi + 0 - -9, phi + log(-5) * e / -2 / -8.7 + e, nxg) / 0.689 - (m_s_hb / pow(pi, e)) / 64 - abs(fabs(fabs(41.3, -6), phi * -6 + 2), 3) - fabs(jvr + -2.7 + (-30.6) - ceil(-1) + -666.0 / (pi)) + log(phi - 0 - -2, phi, qs_w * -2 / e) / e - 90

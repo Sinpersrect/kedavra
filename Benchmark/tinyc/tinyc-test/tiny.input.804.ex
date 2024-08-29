@@ -1,0 +1,1 @@
+if ( h = w =( l )< v - g -( c ))if ( v = t - p )do if ( s = n = p = h < v ); while ( b = p + l );else if ( f -( d < t )< w - l )do while ( o = z )if ( b )do do ; while ( s );while ( d < g );else  l ;while ( f = g = s = i );

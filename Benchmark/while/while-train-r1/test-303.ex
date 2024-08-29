@@ -1,0 +1,1 @@
+while ~L == ((n+L)+L) do L = n

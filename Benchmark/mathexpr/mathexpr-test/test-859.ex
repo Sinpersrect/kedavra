@@ -1,0 +1,1 @@
+(ldexp(sinh((pi * pru / (e)) * phi) / (phi) + (((-23 + l) + fmod(-9) + hypot(0) / e) + 0.04 + s - 7 / (44 - phi) / 0.0)))

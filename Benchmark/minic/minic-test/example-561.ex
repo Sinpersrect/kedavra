@@ -1,0 +1,1 @@
+void a ( char a , float a , bool a ) { a + a ; }

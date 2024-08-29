@@ -1,0 +1,1 @@
+(sh2k + ozoregx0w / -4 * vg * phi * 0 * ufo / degrees(pi, e) * degrees(phi) + (hypot((pi))) - 4933 * 0 / phi + kylh_x * atan2(-740455) * 93 - (-0.5) - v - he) - -6 * -5.6

@@ -1,0 +1,1 @@
+while ( u = n -2< s -0)while ( o = q - v +9){ { while ( p < f )while ( z ); }}

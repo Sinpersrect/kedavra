@@ -1,0 +1,1 @@
+char a ( int a ) { a ; }

@@ -1,0 +1,1 @@
+while (L+L) == L do L = n

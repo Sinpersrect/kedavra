@@ -1,0 +1,1 @@
+Forall(?NG) !!.H(?t, ?O) = #A <-> Forall(?J) !_1(#9, ?5)

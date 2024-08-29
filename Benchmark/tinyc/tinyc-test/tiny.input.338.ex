@@ -1,0 +1,1 @@
+if ( y = k -( g < j ))if ( y = c = v + k ){ if ( e = i < w ){ while ( y < a ); }}

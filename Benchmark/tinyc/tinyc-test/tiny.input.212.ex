@@ -1,0 +1,1 @@
+while (( t < l )-90- z )do do while ( m = h < z )if ( v = w = c < j ){ { ; }}while ( i -6);while ( x );

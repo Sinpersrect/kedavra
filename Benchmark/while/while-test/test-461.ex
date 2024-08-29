@@ -1,0 +1,1 @@
+if false & false & false & ~~((L+n)+(n+n)) == n then L = n else skip

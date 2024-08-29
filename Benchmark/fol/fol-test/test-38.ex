@@ -1,0 +1,1 @@
+!Forall(?5) Exists(?T) !?C = ?E \/ _LP(.u(.b(#m, #y)), #h, #7)

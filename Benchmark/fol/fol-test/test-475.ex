@@ -1,0 +1,1 @@
+!_iT(.B(.m(?59)), ?d0) -> Exists(?6) ?0p = .v2(?jWgl, #145) -> Forall(?Ds) Exists(?d) _6(#p)

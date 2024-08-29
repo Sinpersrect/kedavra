@@ -1,0 +1,1 @@
+void a ( bool a , float a , float a , char a , char a , int a , bool a , float a ) { a = a < a ; }

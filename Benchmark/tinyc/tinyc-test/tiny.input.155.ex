@@ -1,0 +1,1 @@
+do if ( k + v +5-( h )< h +1+( h ))if ( f = f = g = j < q )while ( i = s = i < z )if ( e < p )if ( c = m )if ( w < o ) o < z ;else  q ;else  u = r = l < f ;else ; while ( q = o - q - k - m );

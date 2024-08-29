@@ -1,0 +1,1 @@
+while L == n & L == (n+L) & ~false & true & ~true do while false & false do while true & true & ~false do skip

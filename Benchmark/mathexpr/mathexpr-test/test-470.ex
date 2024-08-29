@@ -1,0 +1,1 @@
+exp(e) * (0.64 * -2 / 0.79 * 6) + ww + phi * tl_mw - sin(hypot(e)) * -0.7 + e / e

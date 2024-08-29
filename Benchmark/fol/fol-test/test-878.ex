@@ -1,0 +1,1 @@
+!_M(.6(.3(.U6ElyT(#6n)))) \/ Forall(?U385t) Forall(?w) !_k(.Av(?d)) ^ ?R = #2

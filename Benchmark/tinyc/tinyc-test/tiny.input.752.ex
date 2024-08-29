@@ -1,0 +1,1 @@
+if ( k = q = e + o -( t < b ))while ( m = p = j - e < z )while ( a - n -5< x +0)while ( w = y = a )do  f ;while ( u = m = z < i );else if ( e = a = f + t < j )do 7< z +0;while (5);else do if ( v + y ){ if ( g ) z < x ;else ; }while (9);

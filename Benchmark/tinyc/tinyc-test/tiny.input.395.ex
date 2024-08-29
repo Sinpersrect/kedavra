@@ -1,0 +1,1 @@
+if ( q =9+( d < h )<1){ if ( d = n < h )do while ( z < x )if ( g < n )do ; while ( z < f );while ( z < w );}

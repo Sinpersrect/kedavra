@@ -1,0 +1,1 @@
+char a ( float a ) { ( a < a ) ; }

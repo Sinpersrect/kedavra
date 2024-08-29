@@ -1,0 +1,1 @@
+if ( z = k = b - k + v )while ( y = b = y = c = p = q < j )if ( e = q - i )while ( l + j )if ( f = v = t )do do  n < l ;while ( n < b );while ( n );else  v ;

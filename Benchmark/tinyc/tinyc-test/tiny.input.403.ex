@@ -1,0 +1,1 @@
+{ if ( o = d = h ){ { do ; while ( n );}}}

@@ -1,0 +1,1 @@
+tanh(fabs(atan(pi) + -42, pi, 0.2 * w - (4.0) / y * 1))

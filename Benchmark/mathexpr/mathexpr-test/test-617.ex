@@ -1,0 +1,1 @@
+(log(uit, ((j - 8) / pi + e), 3 + (tanh(0)))) / x / e + -9.85 - (-6) + phi / frexp(e) - 4 / pi + ((j_v) + e) - (cosh(0)) * phi - (e) / e - 0 + e

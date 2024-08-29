@@ -1,0 +1,1 @@
+void a ( char a , bool a ) { 0 ; }
