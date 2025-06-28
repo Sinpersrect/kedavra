@@ -8,11 +8,11 @@ larkStr = r"""
 start: program
 program: token*
 token: DOUBLE_QUOTE_STRING | SINGLE_QUOTE_STRING | NUM | IDENT | MARK
-DOUBLE_QUOTE_STRING: /"[^"]*"/
-SINGLE_QUOTE_STRING: /'[^']*'/
+DOUBLE_QUOTE_STRING: /"([^"\\]|\\.|\\\n|\n)*"/
+SINGLE_QUOTE_STRING: /'([^'\\]|\\.|\\\n|\n)*'/
 NUM: /[0-9]+/
 IDENT: /[_a-zA-Z][_a-zA-Z0-9]*/
-MARK: /./
+MARK: /./ | /\n/ | /\r/
 """
 
 

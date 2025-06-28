@@ -40,7 +40,7 @@ def isSpaceSensitive(data: Collection[Tuple[Token, ...]], oracle: RawOracle):
     return True
 
 
-def processNotSS(data: Collection[Tuple[Token, ...]], oracle: RawOracle) -> List[Tuple[Token, ...]]:
+def processNotSS(data: Collection[Tuple[Token, ...]], oracle: RawOracle,insensitive_chars) -> List[Tuple[Token, ...]]:
     """
     处理对Space不敏感的情况，主要做两件事。
     1. 通过插入Space来判断是否为一个Token
@@ -58,7 +58,7 @@ def processNotSS(data: Collection[Tuple[Token, ...]], oracle: RawOracle) -> List
         newTokens = []
         index = 0
         while index < len(tokens):
-            if tokens[index].value() == ' ':
+            if tokens[index].value() in insensitive_chars:
                 index += 1
                 continue
             if index == len(tokens) - 1:
@@ -91,15 +91,40 @@ def getIndexes(data, tokenTypes: Collection[str]) -> SeqIndexSet:
     return SeqIndexSet(indexes)
 
 
+def get_insensitive_chars(data: Collection[Tuple[Token, ...]], oracle: RawOracle):
+    # \n
+    # \t
+    # \r
+    chars = ['\n','\t','\r']
+    ans = []
+    for char in chars:
+        flag = 0
+        for example in tqdm(data,desc=f'check {repr(char)}'):
+            values = [i.value() for i in example]
+            if char in values:
+                replaced = [value if value != char else ' ' for value in values]
+                if oracle.parse(''.join(replaced)):
+                    flag = 1
+                else:
+                    flag = 2
+                    break
+        if flag == 1:
+            ans.append(char)
+    return ans
+
 class TokenClassifier:
     def __init__(self, data: Collection[Tuple[Token, ...]], oracle: RawOracle):
         self.__spaceSensitive = isSpaceSensitive(data, oracle)
+        self.__insensitiveChars = set()
         self.__oracle = oracle
         self.__data = data
         self.__ti = DefaultTokenInstantiator()
         self.__mergeCache = {}
         if not self.__spaceSensitive:
-            self.__data = processNotSS(data, oracle)
+            self.__insensitiveChars = get_insensitive_chars(data,oracle)
+            self.__insensitiveChars.append(' ')
+            print(self.__insensitiveChars)
+            self.__data = processNotSS(data, oracle,self.__insensitiveChars)
             self.__ti = SSTokenInstantiator()
         # 初始化并查集
         self.__dj = DisjointSet()
@@ -150,6 +175,7 @@ class TokenClassifier:
             data.append(tuple(newTokens))
         return data
 
+
 def groupCliques(cliques: Set[FrozenSet]):
     finalGroup = {}
     allocated = set()
@@ -198,10 +224,34 @@ def mergeAll(tokenizedData: Collection[Tuple[Token, ...]], oracle: RawOracle) ->
                 for i, j in itertools.combinations(ks, 2):
                     cache[frozenset([i, j])] = True
 
+        def dfs_non_recursive(c, ks, visited):
+            stack = [(c, ks, visited)]
+
+            while stack:
+                current, current_ks, current_visited = stack.pop()
+
+                found_mergeable = False
+                for v in values.difference(current_ks).difference(current_visited):
+                    current_visited_new = current_visited | {v}
+                    pair_key = frozenset([current, v])
+                    if pair_key not in cache:
+                        cache[pair_key] = tc.isMergeable([current, v])
+
+                    if cache[pair_key]:
+                        stack.append((v, current_ks | {v}, current_visited_new))
+                        found_mergeable = True
+                        break  # 模拟递归：找到第一个 mergeable 的就继续深入
+
+                if not found_mergeable:
+                    if tc.isMergeable(current_ks):
+                        good.update(current_ks)
+                        for i, j in itertools.combinations(current_ks, 2):
+                            cache[frozenset([i, j])] = True
+
         for k in values:
             if k in good:
                 continue
-            dfs(k, {k}, {k})
+            dfs_non_recursive(k, {k}, {k})
         for k1, k2 in tqdm(list(itertools.combinations(values, 2))):
             if frozenset([k1, k2]) in cache:
                 mergeable = cache[frozenset([k1, k2])]
