@@ -1,3 +1,4 @@
+import json
 import queue
 from enum import Enum
 from typing import Collection, FrozenSet, Generic, Iterable, List, Optional, Sequence, Set, Tuple, \
@@ -49,7 +50,7 @@ class Symbol(Generic[T]):
         return isinstance(other, Symbol) and str(self) < str(other)
 
     def __str__(self) -> str:
-        value = str(self.getValue()).replace("\\","\\\\").replace('"', '\\"')
+        value = json.dumps(str(self.getValue()))[1:-1]
         if self.__isTerminal:
             value = '"%s"' % value
         if self.getType() == SymbolType.Default:
